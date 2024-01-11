@@ -3,12 +3,12 @@
     <channel>
         <title>Gravity</title>
         <item>
-            <title>1.2.0</title>
-            <pubDate>Thu, 11 Jan 2024 11:13:57 -0800</pubDate>
+            <title>1.2.1</title>
+            <pubDate>Thu, 11 Jan 2024 12:31:21 -0800</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/InvisibilityInc/GravityAI/releases/download/release/GravityInstaller.dmg" length="18048742" type="application/octet-stream"/>
+            <enclosure url="https://invisibilityinc.github.io/GravityAI/GravityInstaller.dmg" length="18068475" type="application/octet-stream" sparkle:edSignature="iH/PV7kuWaFf4mpo3gUrZWlS1cXgo3rc+8xrvcTtcxllh8SxyTmdVetLDO0MxlaBlA8iAb9aJ+NoibfViYRMBg=="/>
         </item>
     </channel>
 </rss>
