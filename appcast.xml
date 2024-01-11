@@ -8,7 +8,10 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://invisibilityinc.github.io/GravityAI/GravityInstaller.dmg" length="18068475" type="application/octet-stream" sparkle:edSignature="iH/PV7kuWaFf4mpo3gUrZWlS1cXgo3rc+8xrvcTtcxllh8SxyTmdVetLDO0MxlaBlA8iAb9aJ+NoibfViYRMBg=="/>
+            <enclosure
+                url="https://github.com/InvisibilityInc/GravityAI/releases/download/1.2.1/GravityInstaller.dmg"
+                length="18068475" type="application/octet-stream"
+                sparkle:edSignature="iH/PV7kuWaFf4mpo3gUrZWlS1cXgo3rc+8xrvcTtcxllh8SxyTmdVetLDO0MxlaBlA8iAb9aJ+NoibfViYRMBg==" />
         </item>
     </channel>
 </rss>
