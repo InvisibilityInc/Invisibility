@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SUEnableDownloaderService</key>
+	<true/>
+	<key>SUEnableInstallerLauncherService</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>https://invisibilityinc.github.io/GravityAI/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>VIOnOTxkP22wB4X2fWs7AkXLD8W5eClUQ7pH0uqD9Cg=</string>
+</dict>
+</plist>
