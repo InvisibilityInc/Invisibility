@@ -1,0 +1,3 @@
+[submodule "OllamaKit"]
+	path = OllamaKit
+	url = https://github.com/djmango/OllamaKit
