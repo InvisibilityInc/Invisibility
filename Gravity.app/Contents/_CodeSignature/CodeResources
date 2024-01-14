@@ -6,15 +6,11 @@
 	<dict>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		gBjiZ4YrWfwBGPbKnDomstqd08A=
+		pch5D34cCdKzubE7ZAoEvHqkN+Y=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		4PGqKxWQXVAku8ltb7qH9Lz9gZU=
-		</data>
-		<key>Resources/Info.plist</key>
-		<data>
-		LrxYHM1ptYRSORX2sh7rNhirMSI=
+		UKantnNGrk090CkOzgh/jEdbcdA=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
@@ -164,7 +160,7 @@
 		</data>
 		<key>Resources/ollama-darwin</key>
 		<data>
-		R9RhVspg9BefqCKAFIvnR9iwZfw=
+		MNGH995fnt40vO7+bzTcUdt5xf8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -182,21 +178,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/48MM12LLavHsDGQhn0rCk4my2eCiPPp1hXhDFS9gT4=
+			uI9fMcfaUBYQ+1/KfIVbG3rpaMigBdlC4AB+WuzwUvE=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YgVlYf+GNBFZNfDA4ayybKBPWw//eXXpo0VuZUASopQ=
-			</data>
-		</dict>
-		<key>Resources/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PN1nQRZlFGODE8htH57lKTMtPHW1oOb1mdDJOn9DvgA=
+			SBMJ6JFVOmLTCab11hn0jx2TB+bgAFr5pcv8hRnpy9c=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
@@ -364,7 +353,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xDYno4ToD9YZCwzhQ6m7gtjH4kGaAZYq0bj+EI6wXHI=
+			RXvYyub54KZKf490sjfx6D/5prGB1fYcJA/taJI3css=
 			</data>
 		</dict>
 	</dict>
