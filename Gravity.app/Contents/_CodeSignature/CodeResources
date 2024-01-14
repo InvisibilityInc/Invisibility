@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		UKantnNGrk090CkOzgh/jEdbcdA=
+		yp6ZMwDYuz16weQu8HDUc4Uf1fk=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
@@ -124,6 +124,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/sk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BtoKweDwP5X0YY4+o64Q/43nxqE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/zh-Hans.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -160,7 +169,7 @@
 		</data>
 		<key>Resources/ollama-darwin</key>
 		<data>
-		MNGH995fnt40vO7+bzTcUdt5xf8=
+		jFJ+hR2ytTWuKvLOLs2c5BLmHSU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -185,7 +194,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SBMJ6JFVOmLTCab11hn0jx2TB+bgAFr5pcv8hRnpy9c=
+			8cqp2AOXFLvhi1HIz3P7YuihFvFZHvuVY755OnYXK6c=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
@@ -303,6 +312,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/sk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MKQ9upBzNjBuhcKODeonuNv+tA4pkPseXReZ4osQLjA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/zh-Hans.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -353,7 +371,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RXvYyub54KZKf490sjfx6D/5prGB1fYcJA/taJI3css=
+			EpvBew8ZtuOS1Y3y48kxLePRK4yFaOm4sZ2aj6N0+OA=
 			</data>
 		</dict>
 	</dict>
