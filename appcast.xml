@@ -3,6 +3,17 @@
     <channel>
         <title>Gravity</title>
         <item>
+            <title>1.2.8</title>
+            <pubDate>Sun, 14 Jan 2024 09:52:17 -0800</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/InvisibilityInc/Gravity/releases/download/1.2.8/Gravity.Installer.1.2.8.dmg"
+                length="19018479" type="application/octet-stream"
+                sparkle:edSignature="aRC0WpstmI5W+cHaaKMQHNUhEyv4pHE44/x0HuOI3KwnY23WXWa2aB2a1vXKkgkDu6c/4ClXrvEf8JUkjHjiBQ==" />
+        </item>
+        <item>
             <title>1.2.7</title>
             <pubDate>Sat, 13 Jan 2024 23:47:29 -0800</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -23,17 +34,6 @@
                 url="https://github.com/InvisibilityInc/Gravity/releases/download/1.2.6/Gravity.Installer.1.2.6.dmg"
                 length="19066267" type="application/octet-stream"
                 sparkle:edSignature="vCt67q1qpQ24hnvf9ZfH48x7nzuEiInws31bxoybXze9bEKCrSHdUdN6PAYiSYXKbjHN3Z3pVLjQ15CL0UMSDA==" />
-        </item>
-        <item>
-            <title>1.2.5</title>
-            <pubDate>Thu, 11 Jan 2024 17:57:53 -0800</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/InvisibilityInc/Gravity/releases/download/1.2.5/Gravity.Installer.1.2.5.dmg"
-                length="18427408" type="application/octet-stream"
-                sparkle:edSignature="/V11jeN1pAR5wAu4RFBMk0MrZW+aphN7fq1MA3x8/ax3y2faPoqmVAHfFBzvo4Ms0aGHrehiNwrRAv99Y+7JCw==" />
         </item>
     </channel>
 </rss>
