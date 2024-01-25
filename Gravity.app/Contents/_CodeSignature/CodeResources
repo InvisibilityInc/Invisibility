@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		+pw2AkqVkUnL/L276RYF2PnvcYE=
+		+AGzsU9oF+eeZoJrj7HbPkG4P+Q=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
@@ -167,9 +167,25 @@
 		<data>
 		tFUWrAZUV5oqcIbyzjzQdrQWrdc=
 		</data>
+		<key>Resources/ggml_ggml.bundle/Contents/Info.plist</key>
+		<data>
+		VZmX5fayS11RJJLKhg9jCQEDcF8=
+		</data>
+		<key>Resources/ggml_ggml.bundle/Contents/Resources/default.metallib</key>
+		<data>
+		3l8q5lhOQ4x/ixrWyejhSZHvmO0=
+		</data>
 		<key>Resources/ollama-darwin</key>
 		<data>
-		vfYZwcK8Nvctp9rGlM71ePobqkI=
+		xpdKH6W1G1/FKGwlw+R9m0PJEOw=
+		</data>
+		<key>Resources/whisper_whisper.bundle/Contents/Info.plist</key>
+		<data>
+		mHZU/bFZC00EGoce/MzOb9a7ENI=
+		</data>
+		<key>Resources/whisper_whisper.bundle/Contents/Resources/default.metallib</key>
+		<data>
+		3l8q5lhOQ4x/ixrWyejhSZHvmO0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -194,7 +210,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HQfXTLAjCt2g6oLXhk2acq/p/ZDIxmYNTWDeGJvXaq4=
+			ShXJTcYEYtMKPcDyliJvK7YpRTASmXSX6TRfkDYNybU=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
@@ -367,11 +383,39 @@
 			mvqumT2p8px4SoSY/qEFP84PUHsOVQ+KvZcm0ITGXOo=
 			</data>
 		</dict>
+		<key>Resources/ggml_ggml.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hY+Y3Mj1LmIvRTTX+ZELNqBuQxezH+Iwh/KQAvsAbYM=
+			</data>
+		</dict>
+		<key>Resources/ggml_ggml.bundle/Contents/Resources/default.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FUAxWnq81457xpriwj2Gps/0h87klumqkUoZM5CErF8=
+			</data>
+		</dict>
 		<key>Resources/ollama-darwin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gbxuDViFZ4tv4yJIio5lXKfrjQ6/evMNXK6CigRICkw=
+			JkGHEpVZw+TxvbCESARL62Qoldda0XjX2fhlBJG9l2g=
+			</data>
+		</dict>
+		<key>Resources/whisper_whisper.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/QVihnoCDYsXC+ThUGi5/FLiCoy6bQAhDpP7AE163vw=
+			</data>
+		</dict>
+		<key>Resources/whisper_whisper.bundle/Contents/Resources/default.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FUAxWnq81457xpriwj2Gps/0h87klumqkUoZM5CErF8=
 			</data>
 		</dict>
 	</dict>
