@@ -3,6 +3,19 @@
     <channel>
         <title>Gravity</title>
         <item>
+            <title>1.5.4</title>
+            <pubDate>Thu, 25 Jan 2024 20:01:12 -0800</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>
+                https://invisibilityinc.github.io/Gravity/CHANGELOG/1.5.0.html</sparkle:releaseNotesLink>
+            <enclosure
+                url="https://github.com/InvisibilityInc/Gravity/releases/download/1.5.4/Gravity.Installer.1.5.4.dmg"
+                length="21799684" type="application/octet-stream"
+                sparkle:edSignature="rK2kSFIpVKpXwuFCN1KZzvFYcr+dj3HdPjBlLdOr4sHHchO2WHSCuwQUA4Erog0roR6oth52FygTCVBv73EyBg==" />
+        </item>
+        <item>
             <title>1.5.0</title>
             <pubDate>Thu, 25 Jan 2024 00:31:24 -0800</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -27,17 +40,6 @@
                 url="https://github.com/InvisibilityInc/Gravity/releases/download/1.3.6/Gravity.Installer.1.3.6.dmg"
                 length="19659284" type="application/octet-stream"
                 sparkle:edSignature="jmk9D+SVWQAhtnQy73VHP5AUG9HRQkQwf+JX21V7DPA3KRe4PN7raK7fn4xo5SlLfntUCMNaWzl5f9+tiZrWAg==" />
-        </item>
-        <item>
-            <title>1.3.5</title>
-            <pubDate>Tue, 16 Jan 2024 22:40:21 -0800</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/InvisibilityInc/Gravity/releases/download/1.3.5/Gravity.Installer.1.3.5.dmg"
-                length="19619560" type="application/octet-stream"
-                sparkle:edSignature="6CIEPeT+OfGLqmJYBUI+ltFlSpmZrXw9F1wrF/czekvMj2Vca8v7JBFNxl7CK8XpBSNN00rcqkWQhNifBm6uCA==" />
         </item>
     </channel>
 </rss>
