@@ -3,6 +3,19 @@
     <channel>
         <title>Gravity</title>
         <item>
+            <title>1.6.0</title>
+            <pubDate>Sat, 27 Jan 2024 00:15:41 -0800</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>
+                https://invisibilityinc.github.io/Gravity/CHANGELOG/1.6.0.html</sparkle:releaseNotesLink>
+            <enclosure
+                url="https://github.com/InvisibilityInc/Gravity/releases/download/1.6.0/Gravity.Installer.1.6.0.dmg"
+                length="9097914" type="application/octet-stream"
+                sparkle:edSignature="xTHG+f63nKtMAYkRjwgT0aFet57BrggX2hxd3sqjc3cwlKdvR8qN6pdsJi1xffpVjK5+k5CafGWDOtwkFHG+Cg==" />
+        </item>
+        <item>
             <title>1.5.4</title>
             <pubDate>Thu, 25 Jan 2024 20:01:12 -0800</pubDate>
             <sparkle:version>23</sparkle:version>
