@@ -175,10 +175,6 @@
 		<data>
 		3l8q5lhOQ4x/ixrWyejhSZHvmO0=
 		</data>
-		<key>Resources/ollama-darwin</key>
-		<data>
-		/ZVeyFoV0Bfj9hAsqf1ATXShF9o=
-		</data>
 		<key>Resources/whisper_whisper.bundle/Contents/Info.plist</key>
 		<data>
 		mHZU/bFZC00EGoce/MzOb9a7ENI=
@@ -395,13 +391,6 @@
 			<key>hash2</key>
 			<data>
 			FUAxWnq81457xpriwj2Gps/0h87klumqkUoZM5CErF8=
-			</data>
-		</dict>
-		<key>Resources/ollama-darwin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			w6qullZyExbdfU+xTQYF6xjZt0fROP6n0CBS5t4h4Ms=
 			</data>
 		</dict>
 		<key>Resources/whisper_whisper.bundle/Contents/Info.plist</key>
