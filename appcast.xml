@@ -11,7 +11,7 @@
             <sparkle:releaseNotesLink>
                 https://invisibilityinc.github.io/Gravity/CHANGELOG/1.6.0.html</sparkle:releaseNotesLink>
             <enclosure
-                url="https://invisibilityinc.github.io/Gravity/Gravity%20Installer%201.6.1.dmg"
+                url="https://github.com/InvisibilityInc/Gravity/releases/download/1.6.1/Gravity.Installer.1.6.1.dmg"
                 length="9096689" type="application/octet-stream"
                 sparkle:edSignature="XpY3l1S+BmOoR3mYHBfZ46pM5bwU9hlgBd92xXlDDFHJZuQ51Q5r588/yYWfQO6qANmmDK+mU/9pJauz2ZH0BQ==" />
         </item>
