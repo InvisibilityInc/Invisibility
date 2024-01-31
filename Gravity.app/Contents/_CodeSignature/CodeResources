@@ -10,11 +10,11 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		+AGzsU9oF+eeZoJrj7HbPkG4P+Q=
+		CcMm5dBTDWGzkdLhXTaBDGMMatk=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
-		eIpVXtD56JB9QrtoANTdacuACQs=
+		TeJBWsCK+KwYRte8DL6s5krpB9M=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/ar.lproj/Localizable.strings</key>
 		<dict>
@@ -153,7 +153,7 @@
 		</dict>
 		<key>Resources/Pow_Pow.bundle/Contents/Info.plist</key>
 		<data>
-		SJifI1enBeHa0InPFujwRoSu7B8=
+		PGgTwAlgzxtxA9Nfj5IhgTq9L34=
 		</data>
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
 		<data>
@@ -161,7 +161,7 @@
 		</data>
 		<key>Resources/TelemetryClient_TelemetryClient.bundle/Contents/Info.plist</key>
 		<data>
-		wptJeVqdSV46dnupdC5QCfnynCY=
+		/5z3oK4wBYLq5kzCOSPxW7mhfAg=
 		</data>
 		<key>Resources/TelemetryClient_TelemetryClient.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -169,7 +169,7 @@
 		</data>
 		<key>Resources/ggml_ggml.bundle/Contents/Info.plist</key>
 		<data>
-		VZmX5fayS11RJJLKhg9jCQEDcF8=
+		l9VpLc7kpWO9/czGmEzc66lY6UQ=
 		</data>
 		<key>Resources/ggml_ggml.bundle/Contents/Resources/default.metallib</key>
 		<data>
@@ -177,7 +177,7 @@
 		</data>
 		<key>Resources/whisper_whisper.bundle/Contents/Info.plist</key>
 		<data>
-		mHZU/bFZC00EGoce/MzOb9a7ENI=
+		GTNTr9IUfYMiNI7ILhUkrJEjU9I=
 		</data>
 		<key>Resources/whisper_whisper.bundle/Contents/Resources/default.metallib</key>
 		<data>
@@ -206,14 +206,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ShXJTcYEYtMKPcDyliJvK7YpRTASmXSX6TRfkDYNybU=
+			ZONAx7KDr5C7XFwfM31A2kucx9jN17GgBtI6R7GxaNc=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XQaboaxDx2AxJWFBfRv49PTuTt70FwTHLUee69hrfJU=
+			/e/v8ZWn/BUe/WHPmWi83M6wiA7IaqOaq/eqXtBOJNE=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/ar.lproj/Localizable.strings</key>
@@ -355,7 +355,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0DcDeGbXvDeRigqkRBRfxM8f7zZxhqsFcS1XNlJUTko=
+			OODhZTCh4KXg+O07LWZG+4ZBCHuCjnp2cfeIxoY4lWA=
 			</data>
 		</dict>
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
@@ -369,7 +369,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5vMq5xOMvSH9tHCX8dVl4pIOOecRezRMpAr3O6lOLa8=
+			iN/x0BHg4nvrZW1bo7guMO1Z4rbtRj1fPeDr/vJ2ImQ=
 			</data>
 		</dict>
 		<key>Resources/TelemetryClient_TelemetryClient.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
@@ -383,7 +383,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hY+Y3Mj1LmIvRTTX+ZELNqBuQxezH+Iwh/KQAvsAbYM=
+			UB7ED5PbWn18eVAMPAKps+ZiVQccVojBXJmDW56QnG8=
 			</data>
 		</dict>
 		<key>Resources/ggml_ggml.bundle/Contents/Resources/default.metallib</key>
@@ -397,7 +397,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/QVihnoCDYsXC+ThUGi5/FLiCoy6bQAhDpP7AE163vw=
+			3wqnd9z6qsV+Y3mSqd9UB+IAaBkU83TbVrrbiEHu7K0=
 			</data>
 		</dict>
 		<key>Resources/whisper_whisper.bundle/Contents/Resources/default.metallib</key>
