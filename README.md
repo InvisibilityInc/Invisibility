@@ -6,7 +6,8 @@ Gravity is a next-generation personal assistant designed specifically for your m
 
 ## Key Features
 
-- **Local Processing**: Gravity runs locally on your mac, keeping all your data safe and secure. No need to worry about storing sensitive information in the cloud.
+- **Local Processing**: Gravity runs locally on your Mac, keeping all your data safe and secure. No need to worry about storing sensitive information in the cloud.
+- **Audio and Voice Recognition**: Gravity allows you to chat with your audio files, transcribe your voice memos, and even draft emails using your voice.
 - **Contextual Understanding (COMING SOON)**: By learning your habits and preferences, Gravity can provide highly relevant suggestions and assistance tailored to your unique needs.
 - **Seamless Integration (COMING SOON)**: Gravity works seamlessly with your favorite macOS applications, enabling a more productive and efficient workflow.
 - **Customizable Experience**: Tailor Gravity to suit your individual preferences by adjusting settings and adding custom actions.
@@ -15,7 +16,7 @@ Gravity is a next-generation personal assistant designed specifically for your m
 
 To download and install Gravity on your mac:
 
-1. Enter your email address to receive the installation link via email, or head over to Releases and grab the latest installer.
+1. Enter your email address at [grav.ai](https://grav.ai) to receive the installation link via email, or head over to Releases and grab the latest installer.
 2. Once you've opened the installer, follow the instructions to complete the installation process. (download may take a few minutes!)
 3. Launch Gravity from your Applications folder or Dock.
 4. Begin exploring the various features and functionalities of your new personal assistant.
@@ -34,15 +35,14 @@ Gravity is compatible with macOS 14 and later versions. It works best with machi
 
 Gravity is built using the following open-source libraries:
 
-- [Alamofire](https://github.com/Alamofire/Alamofire)
 - [AudioKit](https://github.com/AudioKit/AudioKit)
 - [ColibriComponents](https://github.com/david-swift/ColibriComponents)
+- [DockProgress](https://github.com/sindresorhus/DockProgress)
 - [ggml](https://github.com/ggerganov/ggml)
 - [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts)
 - [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin-Modern)
 - [llama](https://github.com/ggerganov/llama.cpp)
 - [NetworkImage](https://github.com/gonzalezreal/NetworkImage)
-- [OllamaKit](https://github.com/djmango/OllamaKit/)
 - [Pow](https://github.com/EmergeTools/Pow)
 - [SettingsKit](https://github.com/david-swift/SettingsKit-macOS)
 - [SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols)

@@ -3,6 +3,19 @@
     <channel>
         <title>Gravity</title>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Wed, 07 Feb 2024 18:48:26 -0800</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>
+                https://invisibilityinc.github.io/Gravity/CHANGELOG/1.7.0.html</sparkle:releaseNotesLink>
+            <enclosure
+                url="https://github.com/InvisibilityInc/Gravity/releases/download/1.7.0/Gravity.Installer.1.7.0.dmg"
+                length="9298047" type="application/octet-stream"
+                sparkle:edSignature="g6qfaFUP+WgGICL1JaY6VaJSEQNxHewZK2G53n3Hce03nCSE4N4YlPPAcpSWFaS/Gt/Z+WkVlpMnJhvAf5yFCQ==" />
+        </item>
+        <item>
             <title>1.6.4</title>
             <pubDate>Tue, 30 Jan 2024 21:54:19 -0800</pubDate>
             <sparkle:version>31</sparkle:version>
@@ -25,19 +38,6 @@
                 url="https://github.com/InvisibilityInc/Gravity/releases/download/1.6.1/Gravity.Installer.1.6.1.dmg"
                 length="9096689" type="application/octet-stream"
                 sparkle:edSignature="XpY3l1S+BmOoR3mYHBfZ46pM5bwU9hlgBd92xXlDDFHJZuQ51Q5r588/yYWfQO6qANmmDK+mU/9pJauz2ZH0BQ==" />
-        </item>
-        <item>
-            <title>1.6.0</title>
-            <pubDate>Sat, 27 Jan 2024 00:15:41 -0800</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>
-                https://invisibilityinc.github.io/Gravity/CHANGELOG/1.6.0.html</sparkle:releaseNotesLink>
-            <enclosure
-                url="https://github.com/InvisibilityInc/Gravity/releases/download/1.6.1/Gravity.Installer.1.6.1.dmg"
-                length="9097914" type="application/octet-stream"
-                sparkle:edSignature="xTHG+f63nKtMAYkRjwgT0aFet57BrggX2hxd3sqjc3cwlKdvR8qN6pdsJi1xffpVjK5+k5CafGWDOtwkFHG+Cg==" />
         </item>
     </channel>
 </rss>

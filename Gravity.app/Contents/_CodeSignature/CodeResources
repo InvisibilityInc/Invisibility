@@ -10,11 +10,11 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		CcMm5dBTDWGzkdLhXTaBDGMMatk=
+		yCX/51L4HOntBpjP9pw+cf2JgVM=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
-		TeJBWsCK+KwYRte8DL6s5krpB9M=
+		5bq2wXmvJOlmbw6MdDnA2taCvVU=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/ar.lproj/Localizable.strings</key>
 		<dict>
@@ -153,15 +153,15 @@
 		</dict>
 		<key>Resources/Pow_Pow.bundle/Contents/Info.plist</key>
 		<data>
-		PGgTwAlgzxtxA9Nfj5IhgTq9L34=
+		2+Gt662Ak33aPtBcH3l5VYuQAdE=
 		</data>
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
 		<data>
-		kVIRv+QS2F4kojofkAsX4XncLAc=
+		R7gCC0AwD+fznSqV8Xz8QfpAHkM=
 		</data>
 		<key>Resources/TelemetryClient_TelemetryClient.bundle/Contents/Info.plist</key>
 		<data>
-		/5z3oK4wBYLq5kzCOSPxW7mhfAg=
+		+HXoFNqoS2niwvoMKLp9C0vryk4=
 		</data>
 		<key>Resources/TelemetryClient_TelemetryClient.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -169,19 +169,19 @@
 		</data>
 		<key>Resources/ggml_ggml.bundle/Contents/Info.plist</key>
 		<data>
-		l9VpLc7kpWO9/czGmEzc66lY6UQ=
+		b0ud9BSmw8cI+Mysy3FlC6t1Sko=
 		</data>
 		<key>Resources/ggml_ggml.bundle/Contents/Resources/default.metallib</key>
 		<data>
-		3l8q5lhOQ4x/ixrWyejhSZHvmO0=
+		MfvF7nTzdPeULjYU4M5sI+N7ZSU=
 		</data>
 		<key>Resources/whisper_whisper.bundle/Contents/Info.plist</key>
 		<data>
-		GTNTr9IUfYMiNI7ILhUkrJEjU9I=
+		BUj3wx+nvLbfDvG5Q0i9Zl+OBrs=
 		</data>
 		<key>Resources/whisper_whisper.bundle/Contents/Resources/default.metallib</key>
 		<data>
-		3l8q5lhOQ4x/ixrWyejhSZHvmO0=
+		MfvF7nTzdPeULjYU4M5sI+N7ZSU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -206,14 +206,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZONAx7KDr5C7XFwfM31A2kucx9jN17GgBtI6R7GxaNc=
+			8X5VPICuxE7NtJyNmN4YnRMmUzInzLC7PPz+D+SyWHE=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/e/v8ZWn/BUe/WHPmWi83M6wiA7IaqOaq/eqXtBOJNE=
+			l6hoZiH/N6F77ck9WuDvnAxTTPJcGJWRNMfw2wXNZsE=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/ar.lproj/Localizable.strings</key>
@@ -355,21 +355,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OODhZTCh4KXg+O07LWZG+4ZBCHuCjnp2cfeIxoY4lWA=
+			0DIQYgYBbOS6S/BgGVfYO9JRsRaG9S6tQ++lVQKStHY=
 			</data>
 		</dict>
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q09dWltwS0wxR90ewMMd7ZXs7NKMvx6v4/qAe/ezP7M=
+			WJePnt8AF6+XZeIIQC5IFCeW/QFjAqnj3M1SOqmKzWM=
 			</data>
 		</dict>
 		<key>Resources/TelemetryClient_TelemetryClient.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iN/x0BHg4nvrZW1bo7guMO1Z4rbtRj1fPeDr/vJ2ImQ=
+			v7Owq/Ln45b/kq93ICzFy94OZqnjMJ1CPb+ZEScPUDU=
 			</data>
 		</dict>
 		<key>Resources/TelemetryClient_TelemetryClient.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
@@ -383,28 +383,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UB7ED5PbWn18eVAMPAKps+ZiVQccVojBXJmDW56QnG8=
+			FpUokVq0eDtwi0fdanUc2yCF37oFexQxPB+rj+E0sQY=
 			</data>
 		</dict>
 		<key>Resources/ggml_ggml.bundle/Contents/Resources/default.metallib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FUAxWnq81457xpriwj2Gps/0h87klumqkUoZM5CErF8=
+			wb22dsFXTbajklq9MIdURKKhXnn2aQr836xbk3GKIg8=
 			</data>
 		</dict>
 		<key>Resources/whisper_whisper.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3wqnd9z6qsV+Y3mSqd9UB+IAaBkU83TbVrrbiEHu7K0=
+			2EzrJywFo5+7wVBehjUvlGgu/yRZMrGcZBEeixPha0g=
 			</data>
 		</dict>
 		<key>Resources/whisper_whisper.bundle/Contents/Resources/default.metallib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FUAxWnq81457xpriwj2Gps/0h87klumqkUoZM5CErF8=
+			wb22dsFXTbajklq9MIdURKKhXnn2aQr836xbk3GKIg8=
 			</data>
 		</dict>
 	</dict>
