@@ -8,6 +8,8 @@
             <sparkle:version>37</sparkle:version>
             <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>
+                https://invisibilityinc.github.io/Gravity/CHANGELOG/1.8.0.html</sparkle:releaseNotesLink>
             <enclosure
                 url="https://github.com/InvisibilityInc/Gravity/releases/download/1.8.0/Gravity.Installer.1.8.0.dmg"
                 length="9308872" type="application/octet-stream"

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Gravity Version 1.7.0 Changelog</title>
+    <style>
+        .feat {
+            color: #4A90E2;
+        }
+
+        .feat::before {
+            content: "🚀 ";
+        }
+
+        .perf {
+            color: #FFFF00;
+        }
+
+        .perf::before {
+            content: "⚡️ ";
+        }
+
+        .fix {
+            color: #FF6F61;
+        }
+
+        .fix::before {
+            content: "🐛 ";
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Gravity <span>Version 1.8.0</span></h1>
+    <h2>Release Notes</h2>
+
+    <h3>New Features: Enhanced Stop Token Handling</h3>
+    <p><span class="feat">Feature: </span>Improved user experience with the implementation of multiple stop token
+        handling. Now supports seamless integration of different stopping criteria for better command control.</p>
+
+    <h3>New Features: Sampling Enhancements</h3>
+    <p><span class="feat">Feature: </span>Introduced new sampling options: <code>repeat_last_n</code>,
+        <code>repeat_penalty</code>, <code>frequency_penalty</code>, and <code>presence_penalty</code>. These provide
+        finer control over the behavior of the language model's outputs.
+    </p>
+
+    <h3>New Features: Model Quality and Interaction</h3>
+    <p><span class="feat">Feature: </span>Upgraded to OpenHermes 2.5, which includes enhancements to the light mode view
+        of the audio widget, ensuring a more enjoyable interaction.</p>
+
+    <h3>New Features: Joyful Download Status</h3>
+    <p><span class="feat">Feature: </span>Revamped the download UI to cleanly display the status, adding a touch of joy
+        to the user's experience during model downloads.</p>
+
+    <h3>Performance Improvements: Sliding Context Window</h3>
+    <p><span class="perf">Performance: </span>Integrated a dynamic sliding window mechanism to handle longer context
+        lengths, boosting the potential for more complex interactions.</p>
+
+    <h3>Bug Fixes: Stop Token Integration</h3>
+    <p><span class="fix">Bug Fix: </span>Addressed and fixed the integration issue with the stop function, ensuring
+        commands are executed as expected.</p>
+
+    <h3>Bug Fixes: Buffer Size Correction</h3>
+    <p><span class="fix">Bug Fix: </span>Corrected a potential buffer size issue to guarantee token count stays within
+        the maximum limit, enhancing overall stability.</p>
+
+    <h3>Upgrades: Merge with Upstream</h3>
+    <p><span class="update">Update: </span>Merged with upstream changes, focusing on improvements to the model
+        downloader.</p>
+
+    <h3>Thank You!</h3>
+    <p>We sincerely appreciate your continued use of Gravity. Our team is dedicated to ongoing improvements and
+        delivering the best user experience. Should you have any feedback or encounter issues, please reach out to us at
+        <a href="mailto:support@grav.ai">support@grav.ai</a>. Your input is invaluable to our development process.
+    </p>
+</body>
+
+</html>
