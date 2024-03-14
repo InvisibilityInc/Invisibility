@@ -35,23 +35,16 @@ Gravity is compatible with macOS 14 and later versions. It works best with machi
 
 Gravity is built using the following open-source libraries:
 
-- [AudioKit](https://github.com/AudioKit/AudioKit)
-- [ColibriComponents](https://github.com/david-swift/ColibriComponents)
-- [DockProgress](https://github.com/sindresorhus/DockProgress)
-- [ggml](https://github.com/ggerganov/ggml)
+- [Alamofire]
+- [ConfettiSwiftUI]
+- [FluidGradient]
 - [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts)
 - [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin-Modern)
-- [llama](https://github.com/ggerganov/llama.cpp)
 - [NetworkImage](https://github.com/gonzalezreal/NetworkImage)
+- [OpenAI]
 - [Pow](https://github.com/EmergeTools/Pow)
-- [SettingsKit](https://github.com/david-swift/SettingsKit-macOS)
-- [SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols)
 - [Sparkle](https://github.com/sparkle-project/Sparkle)
+- [Splash]
 - [swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui)
-- [SwiftLintPlugin](https://github.com/lukepistrol/SwiftLintPlugin)
-- [swiftui-introspect](https://github.com/siteline/swiftui-introspect)
-- [SwiftWhisper](https://github.com/exPHAT/SwiftWhisper)
-- [TelemetryClient](https://github.com/TelemetryDeck/SwiftClient)
 - [ViewCondition](https://github.com/kevinhermawan/ViewCondition)
 - [ViewState](https://github.com/heroesofcode/ViewState)
-- [whisper](https://github.com/ggerganov/whisper.cpp)
