@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		nE065+HYp/Xp89bySfmvPPKY20k=
+		JkDhl8ZOoztrTlMlnPhuYb5xkfU=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
@@ -159,6 +159,14 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/PostHog_PostHog.bundle/Contents/Info.plist</key>
+		<data>
+		DCSn+dWUkW0jwzO/2dbJWbXt+uA=
+		</data>
+		<key>Resources/PostHog_PostHog.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
+		<data>
+		XdwEI7KKJu2gxulf6d+8+2HpdjQ=
+		</data>
 		<key>Resources/Pow_Pow.bundle/Contents/Info.plist</key>
 		<data>
 		StuTYyWLUK9CoR+KOuQMvGUr/YI=
@@ -166,6 +174,14 @@
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
 		<data>
 		+0J4XZzntATG1nn79WuGWOapQbs=
+		</data>
+		<key>Resources/Sentry_SentryPrivate.bundle/Contents/Info.plist</key>
+		<data>
+		ufIOodXujqnycoBfw7Qtyp1gZ9U=
+		</data>
+		<key>Resources/Sentry_SentryPrivate.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
+		<data>
+		TQngLjTjLSFkIvzj0cUeqllg9oI=
 		</data>
 		<key>Resources/invis_launch.mp3</key>
 		<data>
@@ -225,7 +241,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			//1kM0KSH7p/Ss1R7ht08T4MVxIGptbFUuZRpB3v91w=
+			5NT3uk7kfndnFj0EJvVQdQgs1rMSW4Oz16WCTvcooPU=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
@@ -370,6 +386,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/PostHog_PostHog.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3L7HdJ9wGdBL3unXOECmwQ4YUr2l4+XuT5H1ktRUmfs=
+			</data>
+		</dict>
+		<key>Resources/PostHog_PostHog.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ThroJG4j7f39WdC+6WBpRWJsEMg+Vaf1rz8E3yX6db0=
+			</data>
+		</dict>
 		<key>Resources/Pow_Pow.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -382,6 +412,20 @@
 			<key>hash2</key>
 			<data>
 			5QvA+0Cumze5S+zlcnUrrSF5mK+vHn4caZsUe3wM79c=
+			</data>
+		</dict>
+		<key>Resources/Sentry_SentryPrivate.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BaPJF5L/itRR7bSbNYZ9M4pv36+4UNTsaScgWEytNKU=
+			</data>
+		</dict>
+		<key>Resources/Sentry_SentryPrivate.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EYsW4Ol//otvHwG34E9o5dp2RHSk050pM7DurvPNwMo=
 			</data>
 		</dict>
 		<key>Resources/invis_launch.mp3</key>

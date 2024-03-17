@@ -42,7 +42,9 @@ Gravity is built using the following open-source libraries:
 - [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin-Modern)
 - [NetworkImage](https://github.com/gonzalezreal/NetworkImage)
 - [OpenAI]
+- [PostHog]
 - [Pow](https://github.com/EmergeTools/Pow)
+- [Sentry]
 - [Sparkle](https://github.com/sparkle-project/Sparkle)
 - [Splash]
 - [swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui)
