@@ -23,7 +23,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.0.2</string>
+	<string>2.0.3</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
@@ -42,7 +42,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>76</string>
+	<string>77</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -50,15 +50,15 @@
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>14.2</string>
+	<string>14.4</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23E208</string>
 	<key>DTSDKName</key>
-	<string>macosx14.2</string>
+	<string>macosx14.4</string>
 	<key>DTXcode</key>
-	<string>1520</string>
+	<string>1530</string>
 	<key>DTXcodeBuild</key>
-	<string>15C500b</string>
+	<string>15E204a</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.productivity</string>
 	<key>LSMinimumSystemVersion</key>
@@ -73,8 +73,6 @@
 	<string>Copyright © Invisiblity Inc. All rights reserved.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Invisibility requires access to your microphone for input during recordings.</string>
-	<key>NSPrincipalClass</key>
-	<string>SentryCrashExceptionApplication</string>
 	<key>SUEnableInstallerLauncherService</key>
 	<true/>
 	<key>SUFeedURL</key>

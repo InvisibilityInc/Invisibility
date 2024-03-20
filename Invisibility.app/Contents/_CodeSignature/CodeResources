@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Info.plist</key>
 		<data>
-		87sJgylMULpaXxmLM0S8M7ys5oc=
+		1LhFTSniIY1UjtzPZx1lIRq+eN8=
 		</data>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		JkDhl8ZOoztrTlMlnPhuYb5xkfU=
+		yAyyjbszDMD13uyIp4OeyIyShG0=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
-		zMc9xw1Vyimv1Xvo0B1iCYDIeEU=
+		Jl0+qh0wgPhaK0AM6an6lwBJSMQ=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/ar.lproj/Localizable.strings</key>
 		<dict>
@@ -161,7 +161,7 @@
 		</dict>
 		<key>Resources/PostHog_PostHog.bundle/Contents/Info.plist</key>
 		<data>
-		DCSn+dWUkW0jwzO/2dbJWbXt+uA=
+		+k81SVvpqaEpYxvQ6w8QswoGEAs=
 		</data>
 		<key>Resources/PostHog_PostHog.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -169,19 +169,11 @@
 		</data>
 		<key>Resources/Pow_Pow.bundle/Contents/Info.plist</key>
 		<data>
-		StuTYyWLUK9CoR+KOuQMvGUr/YI=
+		eVye43oahwpzMtblrU8f6JWuLh8=
 		</data>
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
 		<data>
-		+0J4XZzntATG1nn79WuGWOapQbs=
-		</data>
-		<key>Resources/Sentry_SentryPrivate.bundle/Contents/Info.plist</key>
-		<data>
-		ufIOodXujqnycoBfw7Qtyp1gZ9U=
-		</data>
-		<key>Resources/Sentry_SentryPrivate.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
-		<data>
-		TQngLjTjLSFkIvzj0cUeqllg9oI=
+		j2sDMOzvWvu6DEjsYWVYAA4jY10=
 		</data>
 		<key>Resources/invis_launch.mp3</key>
 		<data>
@@ -198,6 +190,15 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/Sentry.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			eYGTOBi0NgYvPDhQ5KXk69r99pI=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "io.sentry.Sentry" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
+		</dict>
 		<key>Frameworks/Sparkle.framework</key>
 		<dict>
 			<key>cdhash</key>
@@ -211,7 +212,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			rwGOtKOe1MoaqU2yz16XmGCD5og=
+			WoUuP8Uc/TpTRqlnqRSFm/c65aE=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier Splash and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
@@ -220,7 +221,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dLnAeay89g6zrFilNbiYkz4MKSM4FfmFnw5mqGlR9uY=
+			rzNb5KSvhhYPmL4QaXA2vAex7FEA9IDEzY+vYfvP5Jo=
 			</data>
 		</dict>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
@@ -241,14 +242,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5NT3uk7kfndnFj0EJvVQdQgs1rMSW4Oz16WCTvcooPU=
+			FfhQ9QZwIRyCB5ZjOeP138YgoAli2epK1syFVNvANuM=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u6oLdPerdEPbQNuq6r9K/KmdZVTmYU4das8kKWEiK/E=
+			J71/B+jzBw++IUclPg8t7U4uQzadYJ9Y3Kt8sS12/sA=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/ar.lproj/Localizable.strings</key>
@@ -390,7 +391,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3L7HdJ9wGdBL3unXOECmwQ4YUr2l4+XuT5H1ktRUmfs=
+			PyuLt4LQ1H3CPynsTJmgT+v3078tC2rZknHx625XUgE=
 			</data>
 		</dict>
 		<key>Resources/PostHog_PostHog.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
@@ -404,28 +405,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S6BO9zfr5pJWAizeBvb0uCVernaHnXFoxJs/MZQExVE=
+			qUPQdrTSWqqa3y2Zh5CAvkj+iUTOKxs+DW0Cf3mJuqc=
 			</data>
 		</dict>
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5QvA+0Cumze5S+zlcnUrrSF5mK+vHn4caZsUe3wM79c=
-			</data>
-		</dict>
-		<key>Resources/Sentry_SentryPrivate.bundle/Contents/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BaPJF5L/itRR7bSbNYZ9M4pv36+4UNTsaScgWEytNKU=
-			</data>
-		</dict>
-		<key>Resources/Sentry_SentryPrivate.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EYsW4Ol//otvHwG34E9o5dp2RHSk050pM7DurvPNwMo=
+			C2bUFpuL69WYGVsGfHnBGFMbCCA/KG8NFtagI6pFPeA=
 			</data>
 		</dict>
 		<key>Resources/invis_launch.mp3</key>
