@@ -214,7 +214,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			eYGTOBi0NgYvPDhQ5KXk69r99pI=
+			nnaujCCzGzXRpfC65dnn0zAUuOI=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "io.sentry.Sentry" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
@@ -223,7 +223,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			oTfBdKFb9VtAtbOfa+6yxs+Ss6E=
+			Perhml1PREOYqcQsGsdq/sLb4Sk=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.sparkle-project.Sparkle" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>

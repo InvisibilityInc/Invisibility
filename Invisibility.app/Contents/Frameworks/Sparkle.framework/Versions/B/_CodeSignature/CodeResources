@@ -6,15 +6,15 @@
 	<dict>
 		<key>Resources/Base.lproj/SUUpdateAlert.nib</key>
 		<data>
-		CcSGUnHshFRNbXNCax4Fk/Ar3sk=
+		0rW1wTNcm/Uu4ix8yhISrWRKwKU=
 		</data>
 		<key>Resources/Base.lproj/SUUpdatePermissionPrompt.nib/keyedobjects-101300.nib</key>
 		<data>
-		lVeHWXoa0BJtAg5oTH+LC1su+Ng=
+		0iEU/Z1/v+g44lW6WoiUialO+G0=
 		</data>
 		<key>Resources/Base.lproj/SUUpdatePermissionPrompt.nib/keyedobjects-110000.nib</key>
 		<data>
-		dT3IEZthIDj1OWlnyQ2v/pE6STQ=
+		vauG4sYPPYb/kybnyjJ4Ra9vd3Q=
 		</data>
 		<key>Resources/Base.lproj/Sparkle.strings</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		dH7EPW7nEd3sNk2fIMBexPzwpag=
+		SvIWhZCFWLsem2mAMQ36EqSk+4g=
 		</data>
 		<key>Resources/ReleaseNotesColorStyle.css</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Resources/SUStatus.nib</key>
 		<data>
-		C+A5AK9r0wh2EeQDmcX3eh5QGr8=
+		wynGxRmaznvKG2L/LPvVOJEsppM=
 		</data>
 		<key>Resources/ar.lproj/SUUpdateAlert.strings</key>
 		<dict>
@@ -450,7 +450,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xZjyKASZdwg70f4m29uGtJjFUgQ=
+			Qw6/m/LeQ/b+ApIWLXJp2ByBp7k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -459,7 +459,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d+ifBccX26E56rM7eOY72BKC5aY=
+			ddXQhUAjY+oi62JXHPY2OYvbpa4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -468,7 +468,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vidckNwrgXZkzwbptfj9ycGywxE=
+			30lZbzu4QerfbEwayFqoboTwLSs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -912,30 +912,30 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			SK4M9J2eP4Zn7IJcZUjbeTAQECg=
+			HhVXRQsL+cZ0yV7ChWB7FQS5tEM=
 			</data>
 			<key>requirement</key>
-			<string>anchor apple generic and identifier "Autoupdate-55554944f22a63f863bf3e358b3f0b8ffb32055c" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
+			<string>anchor apple generic and identifier "Autoupdate-55554944aeab8db93bab366c8c5364aa16535907" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
 		</dict>
 		<key>Resources/Base.lproj/SUUpdateAlert.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rNJnQOQk5Kw1RR/pFDaL/mDaQ6JBYFTTBPMmbSZRWD8=
+			msqgijJ6kRed766AfmWbJn145KdRi5g9UAZA1lbU8hc=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/SUUpdatePermissionPrompt.nib/keyedobjects-101300.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fIvYbSwoSchb3+3MgJY+kFNQRxNcImFg0f4arReaUXs=
+			fiX7IeBP8Z6poUhoTFWpAVpSlF0q4wrIJGSQhtQnfBo=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/SUUpdatePermissionPrompt.nib/keyedobjects-110000.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ew79ZSUrPCeBeDzU4V68PAWKgJlxbbXCifvvyzq62ak=
+			IRTtlviTQO+UnVm1xpgnEzG59c3oY7XrWezcvLgy0/c=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Sparkle.strings</key>
@@ -949,7 +949,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fGPW8BFG2NZDdAWePigGKS1mWAN0MpwfKWY0b0ic768=
+			zDn9uR+ubftfJrqZZWdjChqvwMiR2yqjhoLeBy1H8XI=
 			</data>
 		</dict>
 		<key>Resources/ReleaseNotesColorStyle.css</key>
@@ -963,7 +963,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V7nQA4E39SW5aUzqhBVsXTFN0jH5W2mdJr74xs58fWU=
+			LqrcSrjlLj0k1M9i0eVaZkLZQ2wmvWtwA7jvX8SGcwU=
 			</data>
 		</dict>
 		<key>Resources/ar.lproj/SUUpdateAlert.strings</key>
@@ -1384,7 +1384,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			shkQwYfF0rI+GzhWoVLqI7A1hKTnRr/o4wnUFb3Vhik=
+			/sIr/9ihcLhTxpc9CG0ZmCyhtI5lxHnRU2AY2Z7KjnA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1393,7 +1393,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lqPQJYKtJlVGV2/UpetCpxTEpb4u5aUUU9CjmZO2OaI=
+			Q6RJbOzFDzk17QpGPfUciOrtuitReWCBlt8ucofX2AM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1402,7 +1402,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YqbMnU7mRpPLmsdD7YIXgMZkaxkkL5aaeoiv4bLN93I=
+			5GHHunaDv0dty7CogRs+i3C+zY3SkTVkReD90hjRdGk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1843,7 +1843,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			6Vt5pXjg6bt/gjKNRI9loaVAYSA=
+			dAkRdIkg9gfWDYT38PatW2bBW94=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.sparkle-project.Sparkle.Updater" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
@@ -1852,16 +1852,16 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Cb/6Y+EOoJYRiTYTDvridmsSFY0=
+			TM7X3JxSB3b3VBIr/425mPpAzoc=
 			</data>
 			<key>requirement</key>
-			<string>anchor apple generic and identifier "org.sparkle-project.Downloader" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
+			<string>anchor apple generic and identifier "org.sparkle-project.DownloaderService" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
 		</dict>
 		<key>XPCServices/Installer.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			6LUtra+m9Rzs4efIPbp+54yH0O8=
+			dh/pUmh2zOL2G6e8P72vPcSJIzs=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.sparkle-project.InstallerLauncher" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
