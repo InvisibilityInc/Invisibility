@@ -1,0 +1,819 @@
+#markdown-rendered {
+    color: -apple-system-label;
+    font-family: system-ui;
+    font-size: 13pt;
+    line-height: 1.5;
+    word-wrap: break-word;
+}
+
+#markdown-rendered details,
+#markdown-rendered figcaption,
+#markdown-rendered figure {
+    display: block;
+}
+
+#markdown-rendered summary {
+    display: list-item;
+}
+
+#markdown-rendered [hidden] {
+    display: none !important;
+}
+
+#markdown-rendered a {
+    background-color: transparent;
+    color: -apple-system-blue;
+    text-decoration: none;
+}
+
+#markdown-rendered abbr[title] {
+    border-bottom: none;
+    text-decoration: underline dotted;
+}
+
+#markdown-rendered b,
+#markdown-rendered strong {
+    font-weight: 600;
+}
+
+#markdown-rendered dfn {
+    font-style: italic;
+}
+
+#markdown-rendered h1 {
+    margin: .67em 0;
+    font-weight: 600;
+    font-size: 2em;
+}
+
+#markdown-rendered mark {
+    background-color: -apple-system-yellow;
+}
+
+#markdown-rendered small {
+    font-size: 90%;
+}
+
+#markdown-rendered sub,
+#markdown-rendered sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+#markdown-rendered sub {
+    bottom: -0.25em;
+}
+
+#markdown-rendered sup {
+    top: -0.5em;
+}
+
+#markdown-rendered img {
+    border-style: none;
+    max-width: 100%;
+    box-sizing: content-box;
+}
+
+#markdown-rendered code,
+#markdown-rendered kbd,
+#markdown-rendered pre,
+#markdown-rendered samp {
+    font-family: ui-monospace;
+    font-size: 1em;
+}
+
+#markdown-rendered figure {
+    margin: 1em 40px;
+}
+
+#markdown-rendered hr {
+    box-sizing: content-box;
+    overflow: hidden;
+    padding: 0;
+    margin: 24px 0;
+    border: 0;
+    border-bottom: thin solid -apple-system-separator;
+}
+
+#markdown-rendered input {
+    font: inherit;
+    margin: 0;
+    overflow: visible;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+#markdown-rendered [type=checkbox],
+#markdown-rendered [type=radio] {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+#markdown-rendered a:hover {
+    text-decoration: underline;
+}
+
+#markdown-rendered hr::before {
+    display: table;
+    content: "";
+}
+
+#markdown-rendered hr::after {
+    display: table;
+    clear: both;
+    content: "";
+}
+
+#markdown-rendered details summary {
+    cursor: pointer;
+}
+
+#markdown-rendered details:not([open])>*:not(summary) {
+    display: none !important;
+}
+
+#markdown-rendered a:focus,
+#markdown-rendered [role=button]:focus,
+#markdown-rendered input[type=radio]:focus,
+#markdown-rendered input[type=checkbox]:focus {
+    outline: 2px solid -apple-system-blue;
+    outline-offset: -2px;
+    box-shadow: none;
+}
+
+#markdown-rendered a:focus:not(:focus-visible),
+#markdown-rendered [role=button]:focus:not(:focus-visible),
+#markdown-rendered input[type=radio]:focus:not(:focus-visible),
+#markdown-rendered input[type=checkbox]:focus:not(:focus-visible) {
+    outline: solid 1px transparent;
+}
+
+#markdown-rendered a:focus-visible,
+#markdown-rendered [role=button]:focus-visible,
+#markdown-rendered input[type=radio]:focus-visible,
+#markdown-rendered input[type=checkbox]:focus-visible {
+    outline: 2px solid -apple-system-blue;
+    outline-offset: -2px;
+    box-shadow: none;
+}
+
+#markdown-rendered a:not([class]):focus,
+#markdown-rendered a:not([class]):focus-visible,
+#markdown-rendered input[type=radio]:focus,
+#markdown-rendered input[type=radio]:focus-visible,
+#markdown-rendered input[type=checkbox]:focus,
+#markdown-rendered input[type=checkbox]:focus-visible {
+    outline-offset: 0;
+}
+
+#markdown-rendered kbd {
+    display: inline-block;
+    padding: 3px 5px;
+    font: 11px ui-monospace;
+    line-height: 10px;
+    vertical-align: middle;
+    background-color: -apple-system-background;
+    border: solid thin -apple-system-separator;
+    border-radius: 6px;
+}
+
+#markdown-rendered h1,
+#markdown-rendered h2,
+#markdown-rendered h3,
+#markdown-rendered h4,
+#markdown-rendered h5,
+#markdown-rendered h6 {
+    margin-top: 24px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+#markdown-rendered h2 {
+    font-weight: 600;
+    font-size: 1.5em;
+}
+
+#markdown-rendered h3 {
+    font-weight: 600;
+    font-size: 1.25em;
+}
+
+#markdown-rendered h4 {
+    font-weight: 600;
+    font-size: 1em;
+}
+
+#markdown-rendered h5 {
+    font-weight: 600;
+    font-size: .875em;
+}
+
+#markdown-rendered h6 {
+    font-weight: 600;
+    font-size: .85em;
+    color: -apple-system-secondary-label;
+}
+
+#markdown-rendered p {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+#markdown-rendered blockquote {
+    margin: 0;
+    padding: 0 1em;
+    color: -apple-system-secondary-label;
+    border-left: thin solid -apple-system-separator;
+}
+
+#markdown-rendered ul,
+#markdown-rendered ol {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 2em;
+}
+
+#markdown-rendered ol ol,
+#markdown-rendered ul ol {
+    list-style-type: lower-roman;
+}
+
+#markdown-rendered ul ul ol,
+#markdown-rendered ul ol ol,
+#markdown-rendered ol ul ol,
+#markdown-rendered ol ol ol {
+    list-style-type: lower-alpha;
+}
+
+#markdown-rendered dd {
+    margin-left: 0;
+}
+
+#markdown-rendered tt,
+#markdown-rendered code,
+#markdown-rendered samp {
+    font-family: ui-monospace;
+    font-size: 12px;
+}
+
+#markdown-rendered pre {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: ui-monospace;
+    font-size: 12px;
+    word-wrap: normal;
+    overflow-x: scroll;
+    padding: 12px;
+    background-color: -apple-system-background;
+    border-radius: 8px;
+    border: thin solid -apple-system-separator;
+}
+
+#markdown-rendered::before {
+    display: table;
+    content: "";
+}
+
+#markdown-rendered::after {
+    display: table;
+    clear: both;
+    content: "";
+}
+
+#markdown-rendered a:not([href]) {
+    color: inherit;
+    text-decoration: none;
+}
+
+#markdown-rendered p,
+#markdown-rendered blockquote,
+#markdown-rendered ul,
+#markdown-rendered ol,
+#markdown-rendered dl,
+#markdown-rendered table,
+#markdown-rendered pre,
+#markdown-rendered details {
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+#markdown-rendered blockquote>:first-child {
+    margin-top: 0;
+}
+
+#markdown-rendered blockquote>:last-child {
+    margin-bottom: 0;
+}
+
+#markdown-rendered h1 tt,
+#markdown-rendered h1 code,
+#markdown-rendered h2 tt,
+#markdown-rendered h2 code,
+#markdown-rendered h3 tt,
+#markdown-rendered h3 code,
+#markdown-rendered h4 tt,
+#markdown-rendered h4 code,
+#markdown-rendered h5 tt,
+#markdown-rendered h5 code,
+#markdown-rendered h6 tt,
+#markdown-rendered h6 code {
+    padding: 0 .2em;
+    font-size: inherit;
+}
+
+#markdown-rendered summary h1,
+#markdown-rendered summary h2,
+#markdown-rendered summary h3,
+#markdown-rendered summary h4,
+#markdown-rendered summary h5,
+#markdown-rendered summary h6 {
+    display: inline-block;
+}
+
+#markdown-rendered summary h1,
+#markdown-rendered summary h2 {
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+#markdown-rendered ol[type=a] {
+    list-style-type: lower-alpha;
+}
+
+#markdown-rendered ol[type=A] {
+    list-style-type: upper-alpha;
+}
+
+#markdown-rendered ol[type=i] {
+    list-style-type: lower-roman;
+}
+
+#markdown-rendered ol[type=I] {
+    list-style-type: upper-roman;
+}
+
+#markdown-rendered ol[type="1"] {
+    list-style-type: decimal;
+}
+
+#markdown-rendered div>ol:not([type]) {
+    list-style-type: decimal;
+}
+
+#markdown-rendered ul ul,
+#markdown-rendered ul ol,
+#markdown-rendered ol ol,
+#markdown-rendered ol ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#markdown-rendered li>p {
+    margin-top: 16px;
+}
+
+#markdown-rendered li+li {
+    margin-top: .25em;
+}
+
+#markdown-rendered dl {
+    padding: 0;
+}
+
+#markdown-rendered dl dt {
+    padding: 0;
+    margin-top: 16px;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#markdown-rendered dl dd {
+    padding: 0 16px;
+    margin-bottom: 16px;
+}
+
+#markdown-rendered table {
+    border-spacing: 0;
+    display: block;
+    width: max-content;
+    max-width: 100%;
+    overflow: auto;
+    border: thin solid -apple-system-separator;
+    border-radius: 8px;
+    background-color: -apple-system-background;
+}
+
+#markdown-rendered td,
+#markdown-rendered th {
+    padding: 0;
+}
+
+#markdown-rendered table th {
+    font-weight: 500;
+    border-bottom: thin solid -apple-system-separator;
+}
+
+#markdown-rendered table th,
+#markdown-rendered table td {
+    padding: 4px 0 4px 16px;
+}
+
+#markdown-rendered table th:first-child,
+#markdown-rendered table td:first-child {
+    padding-left: 12px;
+}
+
+#markdown-rendered table th:last-child,
+#markdown-rendered table td:last-child {
+    padding-right: 12px;
+}
+
+#markdown-rendered table > tbody > tr:nth-child(odd) > td {
+    background-color: -apple-system-even-alternating-content-background;
+}
+
+#markdown-rendered table > tbody > tr:nth-child(even) > td {
+    background-color: -apple-system-odd-alternating-content-background;
+}
+
+#markdown-rendered img[align=right] {
+    padding-left: 20px;
+}
+
+#markdown-rendered img[align=left] {
+    padding-right: 20px;
+}
+
+#markdown-rendered code,
+#markdown-rendered tt {
+    padding: .2em .4em;
+    margin: 0;
+    font-size: 85%;
+    white-space: break-spaces;
+    background-color: -apple-system-background;
+    border-radius: 6px;
+}
+
+#markdown-rendered code br,
+#markdown-rendered tt br {
+    display: none;
+}
+
+#markdown-rendered del code {
+    text-decoration: inherit;
+}
+
+#markdown-rendered samp {
+    font-size: 85%;
+}
+
+#markdown-rendered pre code {
+    font-size: 100%;
+}
+
+#markdown-rendered pre>code {
+    padding: 0;
+    margin: 0;
+    word-break: normal;
+    white-space: pre;
+    background: transparent;
+    border: 0;
+}
+
+#markdown-rendered pre code,
+#markdown-rendered pre tt {
+    display: inline;
+    max-width: auto;
+    padding: 0;
+    margin: 0;
+    overflow: visible;
+    line-height: inherit;
+    word-wrap: normal;
+    background-color: transparent;
+    border: 0;
+}
+
+#markdown-rendered .task-list-item {
+    list-style-type: none;
+}
+
+#markdown-rendered .task-list-item label {
+    font-weight: 400;
+}
+
+#markdown-rendered .task-list-item.enabled label {
+    cursor: pointer;
+}
+
+#markdown-rendered .task-list-item+.task-list-item {
+    margin-top: 4px;
+}
+
+#markdown-rendered .task-list-item .handle {
+    display: none;
+}
+
+#markdown-rendered .task-list-item-checkbox {
+    margin: 0 .2em .25em -1.4em;
+    vertical-align: middle;
+}
+
+#markdown-rendered .contains-task-list:dir(rtl) .task-list-item-checkbox {
+    margin: 0 -1.6em .25em .2em;
+}
+
+#markdown-rendered .contains-task-list {
+    position: relative;
+}
+
+#markdown-rendered .contains-task-list:hover .task-list-item-convert-container,
+#markdown-rendered .contains-task-list:focus-within .task-list-item-convert-container {
+    display: block;
+    width: auto;
+    height: 24px;
+    overflow: visible;
+    clip: auto;
+}
+
+#markdown-rendered .code-block-wrapper {
+    position: relative;
+}
+
+#markdown-rendered .copy-code-button {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    padding: 3px 5px;
+    background-color: -apple-system-background;
+    color: -apple-system-foreground;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+
+/*!
+  Theme: GitHub
+  Description: Light theme as seen on github.com
+  Author: github.com
+  Maintainer: @Hirse
+  Updated: 2021-05-15
+
+  Outdated base version: https://github.com/primer/github-syntax-light
+  Current colors taken from GitHub's CSS
+*/
+
+.hljs {
+    color: #24292e;
+    background: #ffffff;
+}
+
+.hljs-doctag,
+.hljs-keyword,
+.hljs-meta .hljs-keyword,
+.hljs-template-tag,
+.hljs-template-variable,
+.hljs-type,
+.hljs-variable.language_ {
+    /* prettylights-syntax-keyword */
+    color: #d73a49;
+}
+
+.hljs-title,
+.hljs-title.class_,
+.hljs-title.class_.inherited__,
+.hljs-title.function_ {
+    /* prettylights-syntax-entity */
+    color: #6f42c1;
+}
+
+.hljs-attr,
+.hljs-attribute,
+.hljs-literal,
+.hljs-meta,
+.hljs-number,
+.hljs-operator,
+.hljs-variable,
+.hljs-selector-attr,
+.hljs-selector-class,
+.hljs-selector-id {
+    /* prettylights-syntax-constant */
+    color: #005cc5;
+}
+
+.hljs-regexp,
+.hljs-string,
+.hljs-meta .hljs-string {
+    /* prettylights-syntax-string */
+    color: #032f62;
+}
+
+.hljs-built_in,
+.hljs-symbol {
+    /* prettylights-syntax-variable */
+    color: #e36209;
+}
+
+.hljs-comment,
+.hljs-code,
+.hljs-formula {
+    /* prettylights-syntax-comment */
+    color: #6a737d;
+}
+
+.hljs-name,
+.hljs-quote,
+.hljs-selector-tag,
+.hljs-selector-pseudo {
+    /* prettylights-syntax-entity-tag */
+    color: #22863a;
+}
+
+.hljs-subst {
+    /* prettylights-syntax-storage-modifier-import */
+    color: #24292e;
+}
+
+.hljs-section {
+    /* prettylights-syntax-markup-heading */
+    color: #005cc5;
+    font-weight: bold;
+}
+
+.hljs-bullet {
+    /* prettylights-syntax-markup-list */
+    color: #735c0f;
+}
+
+.hljs-emphasis {
+    /* prettylights-syntax-markup-italic */
+    color: #24292e;
+    font-style: italic;
+}
+
+.hljs-strong {
+    /* prettylights-syntax-markup-bold */
+    color: #24292e;
+    font-weight: bold;
+}
+
+.hljs-addition {
+    /* prettylights-syntax-markup-inserted */
+    color: #22863a;
+    background-color: #f0fff4;
+}
+
+.hljs-deletion {
+    /* prettylights-syntax-markup-deleted */
+    color: #b31d28;
+    background-color: #ffeef0;
+}
+
+.hljs-char.escape_,
+.hljs-link,
+.hljs-params,
+.hljs-property,
+.hljs-punctuation,
+.hljs-tag {
+    /* purposely ignored */
+}
+
+@media (prefers-color-scheme: dark) {
+    /*!
+  Theme: GitHub Dark
+  Description: Dark theme as seen on github.com
+  Author: github.com
+  Maintainer: @Hirse
+  Updated: 2021-05-15
+
+  Outdated base version: https://github.com/primer/github-syntax-dark
+  Current colors taken from GitHub's CSS
+*/
+
+    .hljs {
+        color: #c9d1d9;
+        background: #0d1117;
+    }
+
+    .hljs-doctag,
+    .hljs-keyword,
+    .hljs-meta .hljs-keyword,
+    .hljs-template-tag,
+    .hljs-template-variable,
+    .hljs-type,
+    .hljs-variable.language_ {
+        /* prettylights-syntax-keyword */
+        color: #ff7b72;
+    }
+
+    .hljs-title,
+    .hljs-title.class_,
+    .hljs-title.class_.inherited__,
+    .hljs-title.function_ {
+        /* prettylights-syntax-entity */
+        color: #d2a8ff;
+    }
+
+    .hljs-attr,
+    .hljs-attribute,
+    .hljs-literal,
+    .hljs-meta,
+    .hljs-number,
+    .hljs-operator,
+    .hljs-variable,
+    .hljs-selector-attr,
+    .hljs-selector-class,
+    .hljs-selector-id {
+        /* prettylights-syntax-constant */
+        color: #79c0ff;
+    }
+
+    .hljs-regexp,
+    .hljs-string,
+    .hljs-meta .hljs-string {
+        /* prettylights-syntax-string */
+        color: #a5d6ff;
+    }
+
+    .hljs-built_in,
+    .hljs-symbol {
+        /* prettylights-syntax-variable */
+        color: #ffa657;
+    }
+
+    .hljs-comment,
+    .hljs-code,
+    .hljs-formula {
+        /* prettylights-syntax-comment */
+        color: #8b949e;
+    }
+
+    .hljs-name,
+    .hljs-quote,
+    .hljs-selector-tag,
+    .hljs-selector-pseudo {
+        /* prettylights-syntax-entity-tag */
+        color: #7ee787;
+    }
+
+    .hljs-subst {
+        /* prettylights-syntax-storage-modifier-import */
+        color: #c9d1d9;
+    }
+
+    .hljs-section {
+        /* prettylights-syntax-markup-heading */
+        color: #1f6feb;
+        font-weight: bold;
+    }
+
+    .hljs-bullet {
+        /* prettylights-syntax-markup-list */
+        color: #f2cc60;
+    }
+
+    .hljs-emphasis {
+        /* prettylights-syntax-markup-italic */
+        color: #c9d1d9;
+        font-style: italic;
+    }
+
+    .hljs-strong {
+        /* prettylights-syntax-markup-bold */
+        color: #c9d1d9;
+        font-weight: bold;
+    }
+
+    .hljs-addition {
+        /* prettylights-syntax-markup-inserted */
+        color: #aff5b4;
+        background-color: #033a16;
+    }
+
+    .hljs-deletion {
+        /* prettylights-syntax-markup-deleted */
+        color: #ffdcd7;
+        background-color: #67060c;
+    }
+
+    .hljs-char.escape_,
+    .hljs-link,
+    .hljs-params,
+    .hljs-property,
+    .hljs-punctuation,
+    .hljs-tag {
+        /* purposely ignored */
+    }
+}

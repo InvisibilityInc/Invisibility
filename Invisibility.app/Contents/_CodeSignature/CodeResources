@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		oo0dOSL0yPZ26apGBdD7qv9vTdk=
+		+5qzGZ19unX9z2NzuueplxCdbqM=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
@@ -179,6 +179,26 @@
 		<data>
 		KVAeJ0/UX2GRn10+Du1Ji77aL/o=
 		</data>
+		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Info.plist</key>
+		<data>
+		uakFMhFFC1r9mxuCFDighyICZ78=
+		</data>
+		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/default-iOS</key>
+		<data>
+		KpGvaS3eTlc8lUaaDCs5q+zZ8xE=
+		</data>
+		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/default-macOS</key>
+		<data>
+		i4sfwwTolGKKSAfoXheDp545Pd4=
+		</data>
+		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/script</key>
+		<data>
+		hdJE/VEbqT8oUYIcXYSSEB+Qmjs=
+		</data>
+		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/template</key>
+		<data>
+		tvsF/0P2wJPfmPCawyLwOrfBTPw=
+		</data>
 		<key>Resources/screenshot.mp4</key>
 		<data>
 		dey+bmLD/AvH5YESNOATv4wT7Ww=
@@ -208,15 +228,6 @@
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.sparkle-project.Sparkle" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
 		</dict>
-		<key>Frameworks/Splash.framework</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			WoUuP8Uc/TpTRqlnqRSFm/c65aE=
-			</data>
-			<key>requirement</key>
-			<string>anchor apple generic and identifier Splash and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
-		</dict>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -242,7 +253,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			enWIijyIH+wvZGSGLyrO0a6E2YlwTWIBunBjl5idVCo=
+			9lth7BJUkVUywSjhuEVhTJ5QCETPqw1CrpNJMeNk3ZU=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
@@ -420,6 +431,41 @@
 			<key>hash2</key>
 			<data>
 			oaaeskJajW0ffX/8RlBIzkd9vJuSlF9trpa8wrRCp9w=
+			</data>
+		</dict>
+		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZoYTNx2z41MkrIylJYStyAvVbpLIMcWsXG9EDa8gDGU=
+			</data>
+		</dict>
+		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/default-iOS</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rEoUXdI4o9AWpsFAWmcCpa2QMKwAvCqmrsOfQQf2/SI=
+			</data>
+		</dict>
+		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/default-macOS</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dovpqVQCOGY1NizKoHWLw9QL3c03R3kbP79ldz6l9IE=
+			</data>
+		</dict>
+		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/script</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LSV2UBX9GH59xbvMQM1JedZ22pYpGwrhgnuWCyuiBMU=
+			</data>
+		</dict>
+		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/template</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tUynAbX2VNE4MKWaSF+zidw+XWbhj6Ame3F1aHNtXBg=
 			</data>
 		</dict>
 		<key>Resources/screenshot.mp4</key>
