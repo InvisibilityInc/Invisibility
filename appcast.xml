@@ -3,6 +3,17 @@
     <channel>
         <title>Invisibility</title>
         <item>
+            <title>2.0.12</title>
+            <pubDate>Sat, 06 Apr 2024 17:48:41 -0400</pubDate>
+            <sparkle:version>89</sparkle:version>
+            <sparkle:shortVersionString>2.0.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/InvisibilityInc/Invisibility/releases/download/2.0.12/Invisibility.Installer.dmg"
+                length="21770319" type="application/octet-stream"
+                sparkle:edSignature="lswnh0aaoD95mAVtcF9ja/4eI4Q5jpL1m23ZA3MQfgXfiieJEHIA/vf1rG1An2YnVxsUm/r2Nu6dbsROnfiSDw==" />
+        </item>
+        <item>
             <title>2.0.11</title>
             <pubDate>Thu, 04 Apr 2024 23:01:07 -0400</pubDate>
             <sparkle:version>88</sparkle:version>
@@ -23,17 +34,6 @@
                 url="https://github.com/InvisibilityInc/Invisibility/releases/download/2.0.10/Invisibility.Installer.dmg"
                 length="21569573" type="application/octet-stream"
                 sparkle:edSignature="YvYvLAZIgj63dhAiP4LVBDkXAi/T8Sw6g/pCWnSxTzjanR9yzPQQGPx8KL9XzNlt0+Gv2CIEVqo/ALapHcOVCw==" />
-        </item>
-        <item>
-            <title>2.0.9</title>
-            <pubDate>Thu, 04 Apr 2024 00:49:15 -0400</pubDate>
-            <sparkle:version>86</sparkle:version>
-            <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/InvisibilityInc/Invisibility/releases/download/2.0.9/Invisibility.Installer.dmg"
-                length="21495156" type="application/octet-stream"
-                sparkle:edSignature="yRQ/PhWIGE+mpZZzNQpttv8VVoE3Nlck6Cj1LStUzXATQTqqDzZoMiZ/aHh/iWFFksvlKvTIXI/6dSyXhfIDBw==" />
         </item>
     </channel>
 </rss>
