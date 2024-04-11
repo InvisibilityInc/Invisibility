@@ -1,8 +1,8 @@
-# Gravity: Your Smart, Private Assistant for macOS
+# Invisibility: Your Integrated Personal Assistant for macOS
 
-## About Gravity
+## About
 
-Gravity is a next-generation personal assistant designed specifically for your mac. With Gravity, you'll experience the power of a smart, always-available assistant that stays right on your computer, ensuring your data remains private and secure.
+Invisibility is a next-generation personal assistant designed specifically for your Mac. With Invisibility, you'll experience the power of a smart, always-available assistant that stays right on your computer, ensuring you have access across every app.
 
 ## Key Features
 
@@ -12,41 +12,40 @@ Gravity is a next-generation personal assistant designed specifically for your m
 - **Seamless Integration (COMING SOON)**: Gravity works seamlessly with your favorite macOS applications, enabling a more productive and efficient workflow.
 - **Customizable Experience**: Tailor Gravity to suit your individual preferences by adjusting settings and adding custom actions.
 
-## Get Started with Gravity
+## Get Started with Invisibility
 
-To download and install Gravity on your mac:
+To download and install Invisibility on your Mac:
 
-1. Enter your email address at [grav.ai](https://grav.ai) to receive the installation link via email, or head over to Releases and grab the latest installer.
-2. Once you've opened the installer, follow the instructions to complete the installation process. (download may take a few minutes!)
-3. Launch Gravity from your Applications folder or Dock.
+1. Get an invite at [invisibility.so](https://invisibility.so/sulaiman) to receive a discount, free trial, and the download, or head over to Releases and grab the latest installer.
+2. Once you've opened the installer, follow the instructions to complete the setup process. We think you'll like the onboarding :)
+3. Launch Invisibility from your Applications folder or Dock.
 4. Begin exploring the various features and functionalities of your new personal assistant.
 
 ## Contact Us
 
-If you have any questions or suggestions, please don't hesitate to get in touch with our dedicated support team at [support@grav.ai](mailto:support@grav.ai). We're always here to help!
+If you have any questions or suggestions, please don't hesitate to get in touch with our dedicated support team at [support@invisibility.so](mailto:support@invisibility.so). We're always here to help!
 
 ## System Requirements
 
-Gravity is compatible with macOS 14 and later versions. It works best with machines that have at least an M1 chip and 16GB of memory.
+Invisibility is compatible with macOS 14 Ventura and later versions.
 
-![Gravity logo](https://github.com/InvisibilityInc/GravityAI/blob/master/AppIcon.png)
+![logo](https://github.com/InvisibilityInc/Invisibility/blob/master/Invisibility.png)
 
 ## Acknowledgements
 
-Gravity is built using the following open-source libraries:
+Invisibility is built using the following open-source libraries:
 
-- [Alamofire]
-- [ConfettiSwiftUI]
-- [FluidGradient]
+- [Alamofire](https://github.com/Alamofire/Alamofire)
+- [Andhika Dewa](https://www.youtube.com/@AndhikaDewa/)
+- [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI)
+- [FluidGradient](https://github.com/Cindori/FluidGradient)
 - [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts)
 - [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin-Modern)
-- [NetworkImage](https://github.com/gonzalezreal/NetworkImage)
-- [OpenAI]
-- [PostHog]
+- [markdown-webview](https://github.com/djmango/markdown-webview)
+- [OpenAI](https://github.com/djmango/OpenAI)
+- [PostHog](https://github.com/PostHog/posthog-ios)
 - [Pow](https://github.com/EmergeTools/Pow)
-- [Sentry]
+- [ScrollKit](https://github.com/danielsaidi/ScrollKit)
+- [Sentry](https://github.com/getsentry/sentry-cocoa)
 - [Sparkle](https://github.com/sparkle-project/Sparkle)
-- [Splash]
-- [swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui)
 - [ViewCondition](https://github.com/kevinhermawan/ViewCondition)
-- [ViewState](https://github.com/heroesofcode/ViewState)
