@@ -10,14 +10,14 @@ Invisibility is a next-generation personal assistant designed specifically for y
 
 To download and install Invisibility on your Mac:
 
-1. Get an invite at [invisibility.so](https://invisibility.so/sulaiman) to receive a discount and free trial, or head over to Releases and just grab the latest installer if you don't want that for whatever idiot reason.
+1. Head over to [i.inc/download](https://i.inc/download) to grab the latest installer.
 2. Once you've opened the installer, follow the instructions to complete the setup process. We think you'll like the onboarding :)
 3. Launch Invisibility from your Applications folder or Dock.
 4. Begin exploring the various features and functionalities of your new personal assistant.
 
 ## Contact Us
 
-If you have any questions or suggestions, please don't hesitate to get in touch with our dedicated support team at [support@invisibility.so](mailto:support@invisibility.so). We're always here to help!
+If you have any questions or suggestions, please don't hesitate to get in touch with our dedicated support team at [support@invisibility.so](mailto:support@i.inc). We're always here to help!
 
 ## System Requirements
 
