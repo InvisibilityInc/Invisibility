@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Info.plist</key>
 		<data>
-		pwtMIiPea1rvEI4Ytua9lvSEUsI=
+		NmfY9tN3O/XX5yU6C2FroDH0rgQ=
 		</data>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		FS5g78HDhcoQLlbZ/QfAcZKzOM0=
+		e57HoRfOz/wpFwch0VKgFER0VQI=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
-		CSQgHk6LqLrLHfELlUkaZsYPjfM=
+		S3CDC/Tx8IhahIlmatbCTllXUJY=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/ar.lproj/Localizable.strings</key>
 		<dict>
@@ -161,7 +161,7 @@
 		</dict>
 		<key>Resources/PostHog_PostHog.bundle/Contents/Info.plist</key>
 		<data>
-		Z97lRSriHDLEiWsqxlMig58sedc=
+		p9S2MbC5Qot2j0bbzGRwXfiD3eU=
 		</data>
 		<key>Resources/PostHog_PostHog.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -169,11 +169,19 @@
 		</data>
 		<key>Resources/Pow_Pow.bundle/Contents/Info.plist</key>
 		<data>
-		KouY+N/e4km8K2yqBjKvGUSkxxA=
+		lecpISxypaHfUrwcz4a32Q5S9kI=
 		</data>
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
 		<data>
-		j2sDMOzvWvu6DEjsYWVYAA4jY10=
+		/T9ZkvZrqDUSAWFrZWokRtVF6fg=
+		</data>
+		<key>Resources/WhatsNewKit_WhatsNewKit.bundle/Contents/Info.plist</key>
+		<data>
+		4BZBW8zl6Q/DB+T80YI7oB3o26A=
+		</data>
+		<key>Resources/WhatsNewKit_WhatsNewKit.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
+		<data>
+		VEhjocORkWieOuakGdzLrjoUDQU=
 		</data>
 		<key>Resources/invis_launch.mp3</key>
 		<data>
@@ -181,7 +189,7 @@
 		</data>
 		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Info.plist</key>
 		<data>
-		435okeX7dpKILVfx7rMEqeaifPw=
+		uOyx7t/jmU9f3fm0s1jkkvt7k/I=
 		</data>
 		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/default-iOS</key>
 		<data>
@@ -197,7 +205,7 @@
 		</data>
 		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/template</key>
 		<data>
-		b/LIGwoYeeVrXWEyc8wJovDq4/I=
+		fveEfR2NtvXZ992H+qftWxWYbDo=
 		</data>
 		<key>Resources/screenshot.mp4</key>
 		<data>
@@ -214,7 +222,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			nnaujCCzGzXRpfC65dnn0zAUuOI=
+			EYqnxOtI5rxGJVakdKMZeduVR3k=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "io.sentry.Sentry" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
@@ -223,7 +231,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Perhml1PREOYqcQsGsdq/sLb4Sk=
+			fNxZ8qLNcayvwF74eXYMvvV7xCw=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.sparkle-project.Sparkle" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
@@ -232,7 +240,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fXU3YpEgKHcY9KZD3S8yXVMyTIPEkEjpprVUL1MmyVQ=
+			0TpS7mymdHzTw6D/1ZpP5guO5hd5WnBUSTSKgtkBrfc=
 			</data>
 		</dict>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
@@ -253,14 +261,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oltYmj250He1wHU22dNuCh8vLstsMDV/oHqzsBIjFzg=
+			aw2CChqY5Pr8IHqvwYoSE60tLDO/RdbUQgNeKGQKEgU=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uzuBYIrq8d54jrzX2gnMZ9o2XQmj9tC85IkHxSCMbtM=
+			28VMz+5uSrq6jUpaoP5WQk0+OijH/OlBuV0T/xvAhT0=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/ar.lproj/Localizable.strings</key>
@@ -402,7 +410,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1bhE2/DsJJ71/t80h65q2F0eypNSe/H3rpTCE5s4N2k=
+			RsGOnvhf/7TXEVJX+WZ0z7A7Dp2n54vAY50gTxZtTLM=
 			</data>
 		</dict>
 		<key>Resources/PostHog_PostHog.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
@@ -416,14 +424,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qXRUUxodqtVCsfbhzyQ8q3ZWGiMT1B97pOPEATyt+t4=
+			/2C1PLCNbWbY30jk+fTFsJ55jnWkWsbZ3Ir31tCu1z8=
 			</data>
 		</dict>
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C2bUFpuL69WYGVsGfHnBGFMbCCA/KG8NFtagI6pFPeA=
+			uCaa5qXxuN5oa0Pvftd9DwC79K8EmTmqiQhQHWh4oKQ=
+			</data>
+		</dict>
+		<key>Resources/WhatsNewKit_WhatsNewKit.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mWPbIg9xLguIAcbwmJ//vH9/eR0T1eJ8IYkepP7OE50=
+			</data>
+		</dict>
+		<key>Resources/WhatsNewKit_WhatsNewKit.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yD2PxCzUPAFaup2cpjTM22p2XgM9aV1p8JRdDbbcDWQ=
 			</data>
 		</dict>
 		<key>Resources/invis_launch.mp3</key>
@@ -437,7 +459,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ahP4vRUCbkkJQUm8nyYJcUKOXzNIynnhPsg25u4EguY=
+			dA+I/Lp2cgQXG5EqbfUHcawwJSWLkbu0rVD913GlcSo=
 			</data>
 		</dict>
 		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/default-iOS</key>
@@ -465,7 +487,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IhOy7EdFM7DCdvxi135ZZ6BNLatsp00nRQF8H1mrOAY=
+			NPvhibHLyXioMHRJqdrtB7ZyrIV5NXFvAlRqB7xdF3g=
 			</data>
 		</dict>
 		<key>Resources/screenshot.mp4</key>

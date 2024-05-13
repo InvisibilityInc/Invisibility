@@ -10,11 +10,11 @@
 		</data>
 		<key>Resources/Base.lproj/SUUpdatePermissionPrompt.nib/keyedobjects-101300.nib</key>
 		<data>
-		0iEU/Z1/v+g44lW6WoiUialO+G0=
+		0faCRWKAGe89/C2vGoilEmwgpjs=
 		</data>
 		<key>Resources/Base.lproj/SUUpdatePermissionPrompt.nib/keyedobjects-110000.nib</key>
 		<data>
-		vauG4sYPPYb/kybnyjJ4Ra9vd3Q=
+		gCq7ramhj8vmmJR4Ku5qE9S5Nhc=
 		</data>
 		<key>Resources/Base.lproj/Sparkle.strings</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		SvIWhZCFWLsem2mAMQ36EqSk+4g=
+		yvY+bqgs36R5EwUEBKOBrEnaVyg=
 		</data>
 		<key>Resources/ReleaseNotesColorStyle.css</key>
 		<data>
@@ -527,6 +527,33 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/nn.lproj/SUUpdateAlert.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			v2c8gYdlWN2U2PbZlUQwmfWIeGk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nn.lproj/SUUpdatePermissionPrompt.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xNizW6Xg8cPtYBhWBmexjNf5j8U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nn.lproj/Sparkle.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8GnPpOmTh7bQRiUCzZDL6pq1KNE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/pl.lproj/SUUpdateAlert.strings</key>
 		<dict>
 			<key>hash</key>
@@ -912,10 +939,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			HhVXRQsL+cZ0yV7ChWB7FQS5tEM=
+			y9j/8WkfzjI/dD79S2U42Rg3ZxM=
 			</data>
 			<key>requirement</key>
-			<string>anchor apple generic and identifier "Autoupdate-55554944aeab8db93bab366c8c5364aa16535907" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
+			<string>anchor apple generic and identifier "Autoupdate-55554944e6acd6b1f5ee32718f6bae73e20e4627" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
 		</dict>
 		<key>Resources/Base.lproj/SUUpdateAlert.nib</key>
 		<dict>
@@ -928,14 +955,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fiX7IeBP8Z6poUhoTFWpAVpSlF0q4wrIJGSQhtQnfBo=
+			FE1Ls8JHeImpqisF2F5vkgNrgyLy3esoM5CoEU910U0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/SUUpdatePermissionPrompt.nib/keyedobjects-110000.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IRTtlviTQO+UnVm1xpgnEzG59c3oY7XrWezcvLgy0/c=
+			T43hI+h3I1bnq0zpNmBQjHnZX8nF4ceCX9n8n0t8KNE=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Sparkle.strings</key>
@@ -949,7 +976,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zDn9uR+ubftfJrqZZWdjChqvwMiR2yqjhoLeBy1H8XI=
+			xoYMGuL7LSy1nrTx+cax/1LQzFf4OfmVx4OFJVWj/vY=
 			</data>
 		</dict>
 		<key>Resources/ReleaseNotesColorStyle.css</key>
@@ -1461,6 +1488,33 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/nn.lproj/SUUpdateAlert.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			giHYMaf7DkBFSModZ1CL3EswwwGHyOmkxRjtDP6bmk8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nn.lproj/SUUpdatePermissionPrompt.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V7VdecLbSo5sr8pMVUBnsJ04no1tM8XXsU/SHRWphs8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nn.lproj/Sparkle.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ouNyYGUrFy2VqYdwZnSn1emcGTGoyHGqb8Sb9Cg0cWk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/pl.lproj/SUUpdateAlert.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -1843,7 +1897,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			dAkRdIkg9gfWDYT38PatW2bBW94=
+			MRPcC9YwFOTYRi4S2ea8CbNthU8=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.sparkle-project.Sparkle.Updater" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
@@ -1852,7 +1906,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			TM7X3JxSB3b3VBIr/425mPpAzoc=
+			/1R4Ni6uSunXigIF04mMhvkWp0w=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.sparkle-project.DownloaderService" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
@@ -1861,7 +1915,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			dh/pUmh2zOL2G6e8P72vPcSJIzs=
+			NSWIOEWKIbKq6RusQ8UvwBmB8Co=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.sparkle-project.InstallerLauncher" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
