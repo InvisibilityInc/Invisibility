@@ -14,11 +14,11 @@
 		</data>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		iK0I1VPWXFAVxu2E+IlndhlfuCI=
+		6zcd8QWCqd0HOJig4gvFlEJAzuE=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		e57HoRfOz/wpFwch0VKgFER0VQI=
+		2sdObMwzu9lqMqVfRZEmcw4c280=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
@@ -175,6 +175,10 @@
 		<data>
 		/T9ZkvZrqDUSAWFrZWokRtVF6fg=
 		</data>
+		<key>Resources/Synth.aif</key>
+		<data>
+		cgnUk0tud9TPqTZvH46OtcBjETk=
+		</data>
 		<key>Resources/WhatsNewKit_WhatsNewKit.bundle/Contents/Info.plist</key>
 		<data>
 		4BZBW8zl6Q/DB+T80YI7oB3o26A=
@@ -211,9 +215,9 @@
 		<data>
 		dey+bmLD/AvH5YESNOATv4wT7Ww=
 		</data>
-		<key>Resources/summon.mp4</key>
+		<key>Resources/shortcuts.mp4</key>
 		<data>
-		6AyazGqbevOpZ1dIB9Hw0KFwFYI=
+		9BqwnqtieUF/Uv9GkR7puv4Hiyc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -254,14 +258,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GMVUNmWGzR0oHckCgA8kpj0YT6rjfDa5uaeuJZg7nkA=
+			sxenL/ASW56JKBbzYWY9SHPe1YJks8c4+Ww8mctrljk=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aw2CChqY5Pr8IHqvwYoSE60tLDO/RdbUQgNeKGQKEgU=
+			P2QX07tK8GPj5My0FiI84IAG3nXsqeB6zJjeCScG7ZE=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
@@ -434,6 +438,13 @@
 			uCaa5qXxuN5oa0Pvftd9DwC79K8EmTmqiQhQHWh4oKQ=
 			</data>
 		</dict>
+		<key>Resources/Synth.aif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cTyi9rgSXhy70FpofZOU7mpc4rbNv1SvAliMm46LdJw=
+			</data>
+		</dict>
 		<key>Resources/WhatsNewKit_WhatsNewKit.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -497,11 +508,11 @@
 			3a12wBQxEl8XftqsjMnbhn8JDqZMyfX9WFSIBCERNGA=
 			</data>
 		</dict>
-		<key>Resources/summon.mp4</key>
+		<key>Resources/shortcuts.mp4</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LGuNC2qaLSrkf3IBh41LNNdoLUbed9Vg9xSKOlL7rKw=
+			scMftWdD1KpXrDm+/5ultoXPaC1cJd5zEE7+rVf8/eQ=
 			</data>
 		</dict>
 	</dict>
