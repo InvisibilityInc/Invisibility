@@ -4,14 +4,14 @@
         <title>Invisibility</title>
         <item>
             <title>2.1.2</title>
-            <pubDate>Wed, 15 May 2024 02:24:42 -0700</pubDate>
-            <sparkle:version>106</sparkle:version>
+            <pubDate>Wed, 15 May 2024 02:34:06 -0700</pubDate>
+            <sparkle:version>107</sparkle:version>
             <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/InvisibilityInc/Invisibility/releases/download/2.1.2/Invisibility.Installer.dmg"
-                length="20107088" type="application/octet-stream"
-                sparkle:edSignature="FXp9jZEQtiEQ3VUQkY+LGUA/mHluRF98JEdnxlSGMGgYw7+gyadNZ0be+TpElrYYX7oxsjFkn9pvvMRWUiyADA==" />
+                length="20107410" type="application/octet-stream"
+                sparkle:edSignature="jU/KaiUKiHNjtHSS9nX60Dam87qr+A6ewOHw+L3mxzgar9XhE6Kk4LdeM0Y78PzLXf/ApHpopggPaQEHBxgHBw==" />
         </item>
         <item>
             <title>2.1.0</title>
