@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Info.plist</key>
 		<data>
-		NmfY9tN3O/XX5yU6C2FroDH0rgQ=
+		1KgI9DkjnpkTlXR2ZjC/Yt3pPEs=
 		</data>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		9LYn7Zrxr+vQx8IdKXTlSZCO+hw=
+		hcibbT4zmTKrR7XQwoqvFWUIfJ0=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
-		S3CDC/Tx8IhahIlmatbCTllXUJY=
+		lkswg7SakXvGAETldLKe8hVMKjk=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/ar.lproj/Localizable.strings</key>
 		<dict>
@@ -161,7 +161,7 @@
 		</dict>
 		<key>Resources/PostHog_PostHog.bundle/Contents/Info.plist</key>
 		<data>
-		p9S2MbC5Qot2j0bbzGRwXfiD3eU=
+		xA506MBA+Zi+BRor1U8fG3iuAoM=
 		</data>
 		<key>Resources/PostHog_PostHog.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -169,19 +169,15 @@
 		</data>
 		<key>Resources/Pow_Pow.bundle/Contents/Info.plist</key>
 		<data>
-		lecpISxypaHfUrwcz4a32Q5S9kI=
+		3uflJBapaBwIj7cLbeJLYO4EvbM=
 		</data>
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
 		<data>
-		/T9ZkvZrqDUSAWFrZWokRtVF6fg=
-		</data>
-		<key>Resources/Synth.aif</key>
-		<data>
-		cgnUk0tud9TPqTZvH46OtcBjETk=
+		LN11wdtGqwbZKh2PTvPsbkgbQKI=
 		</data>
 		<key>Resources/WhatsNewKit_WhatsNewKit.bundle/Contents/Info.plist</key>
 		<data>
-		4BZBW8zl6Q/DB+T80YI7oB3o26A=
+		Rm+QydagWq0lx/SY24pQuEv2lN4=
 		</data>
 		<key>Resources/WhatsNewKit_WhatsNewKit.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -193,7 +189,7 @@
 		</data>
 		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Info.plist</key>
 		<data>
-		uOyx7t/jmU9f3fm0s1jkkvt7k/I=
+		qKha/cgamzwQhJTWaNFGIbIL7kg=
 		</data>
 		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/default-iOS</key>
 		<data>
@@ -226,7 +222,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			EYqnxOtI5rxGJVakdKMZeduVR3k=
+			H9n68fcJ9KrGgqSEGBl6WBWWS80=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "io.sentry.Sentry" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
@@ -244,7 +240,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0TpS7mymdHzTw6D/1ZpP5guO5hd5WnBUSTSKgtkBrfc=
+			0psM/nvj8+Ct7qCffRvPEeM7rFquCw2eqbMAnOTnSNs=
 			</data>
 		</dict>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
@@ -265,14 +261,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HslkWVYN22Q2JLbWkIhu9kpMZaMBHuOdsRO1fFA+94w=
+			b62PrYtgB0N9l7Pqo4FKK4JW2X7QFl8PYnPIFI1Zm80=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			28VMz+5uSrq6jUpaoP5WQk0+OijH/OlBuV0T/xvAhT0=
+			BWFgstawwNZFoN7Quvs87uKfG07O10EAZ12ILxLNypw=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/ar.lproj/Localizable.strings</key>
@@ -414,7 +410,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RsGOnvhf/7TXEVJX+WZ0z7A7Dp2n54vAY50gTxZtTLM=
+			vYb0K8w4952cWAwNjHeOC9/o3FrqpyHWT+AFjUTRQ4M=
 			</data>
 		</dict>
 		<key>Resources/PostHog_PostHog.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
@@ -428,28 +424,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/2C1PLCNbWbY30jk+fTFsJ55jnWkWsbZ3Ir31tCu1z8=
+			ihI7vJ94cIpQUSey8IS0wmwPYv15AHmR5hEGRUdNsaM=
 			</data>
 		</dict>
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uCaa5qXxuN5oa0Pvftd9DwC79K8EmTmqiQhQHWh4oKQ=
-			</data>
-		</dict>
-		<key>Resources/Synth.aif</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cTyi9rgSXhy70FpofZOU7mpc4rbNv1SvAliMm46LdJw=
+			MkVZaAHno/SDYExFc0qF8718e8mlyi1I2dN/lsDbPWA=
 			</data>
 		</dict>
 		<key>Resources/WhatsNewKit_WhatsNewKit.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mWPbIg9xLguIAcbwmJ//vH9/eR0T1eJ8IYkepP7OE50=
+			ENLmdlnABCy995eErXa43hZoa+lI/StuWXwBv8G+JTw=
 			</data>
 		</dict>
 		<key>Resources/WhatsNewKit_WhatsNewKit.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
@@ -470,7 +459,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dA+I/Lp2cgQXG5EqbfUHcawwJSWLkbu0rVD913GlcSo=
+			ovVR+nF1v2tKiWEBw8TzAfjjCO9fi5yOVGNjnBAp3RY=
 			</data>
 		</dict>
 		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/default-iOS</key>
