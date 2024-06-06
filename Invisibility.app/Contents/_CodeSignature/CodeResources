@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		6dExJ1RUmrBiqc00QTIzkGrIa7k=
+		PZVG7ojCSLq6z2haEW0I0RijSfA=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
@@ -205,7 +205,7 @@
 		</data>
 		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/template</key>
 		<data>
-		fveEfR2NtvXZ992H+qftWxWYbDo=
+		BMvEiDga03j2uIfy4uyXHdB4ZTs=
 		</data>
 		<key>Resources/screenshot.mp4</key>
 		<data>
@@ -222,7 +222,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			H9n68fcJ9KrGgqSEGBl6WBWWS80=
+			oBezF1Fx7FCsi/fKHfv/OQKTjVc=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "io.sentry.Sentry" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
@@ -261,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			53DPwAUDMu2HwfnxHU38q9ynW/DQOCo8rEyjf6RKdXw=
+			0aZ3xsDkKLUjAtZGCnx6/OYYtomIR3J2ldmbqryui1U=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
@@ -487,7 +487,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NPvhibHLyXioMHRJqdrtB7ZyrIV5NXFvAlRqB7xdF3g=
+			Fmkp8M1hadxAOTd//eRL3dJGawf91RuqyPELHTxF5PU=
 			</data>
 		</dict>
 		<key>Resources/screenshot.mp4</key>

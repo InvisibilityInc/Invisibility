@@ -127,7 +127,7 @@
             highlight: function (str, lang) {
                 if (lang && hljs.getLanguage(lang)) {
                     try {
-                        return hljs.highlight(str, {language: lang}).value;
+                        return hljs.highlight(str, { language: lang }).value;
                     } catch (__) { }
                 } else {
                     try {
@@ -149,6 +149,7 @@
                     throwOnError: false,
                     errorColor: '#cc0000',
                 },
+                breaks: false,
             })
             .use(window.markdownitSub)
             .use(window.markdownitSup)
@@ -157,27 +158,48 @@
 
         const markdownRenderedElement = document.getElementById(`markdown-rendered`);
 
-
         window.updateWithMarkdownContentBase64Encoded = (markdownContentBase64Encoded) => {
-            const markdownContent = decodeURIComponent(atob(markdownContentBase64Encoded).split('').map(function (c) {return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);}).join(''));
+            const markdownContent = decodeURIComponent(atob(markdownContentBase64Encoded).split('').map(function (c) { return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2); }).join(''));
             const renderedContent = markdownIt.render(markdownContent);
 
             // Create a temporary element to hold the new rendered content
             const tempElement = document.createElement('div');
             tempElement.innerHTML = renderedContent;
 
+            // Clean up the temporary DOM to remove unwanted <p> tags inside <li> elements. This is what causes the numbered list line break issue.
+            tempElement.querySelectorAll('li > p').forEach((pTag) => {
+                const li = pTag.parentNode;
+                while (pTag.firstChild) {
+                    li.insertBefore(pTag.firstChild, pTag);
+                }
+                pTag.remove();
+            });
+
             // Use morphdom to update the content without losing the text selection
             morphdom(markdownRenderedElement, tempElement, {
-                childrenOnly: true,
                 onBeforeElUpdated: function (fromEl, toEl) {
+                    // spec - https://dom.spec.whatwg.org/#concept-node-equals
+                    if (fromEl.isEqualNode(toEl)) {
+                        return false
+                    }
+                    return true
+                },
+                childrenOnly: true,
+                skipFromChildren: function (fromEl, toEl) {
                     return true;
                 }
             });
 
+            // // send the html contnent via POST to https://webhook.site/9251dc8e-fc67-4e37-8a72-50129affd04e for debug
+            // fetch('https://webhook.site/9251dc8e-fc67-4e37-8a72-50129affd04e', {
+            //     method: 'POST',
+            //     body: markdownRenderedElement.innerHTML
+            // });
+            
             window.webkit.messageHandlers.renderedContentHandler.postMessage(markdownContentBase64Encoded);
         }
 
-        const resizeObserver = new ResizeObserver((entries) => {window.webkit.messageHandlers.sizeChangeHandler.postMessage(entries[0].borderBoxSize[0].blockSize)});
+                    const resizeObserver = new ResizeObserver((entries) => { window.webkit.messageHandlers.sizeChangeHandler.postMessage(entries[0].borderBoxSize[0].blockSize) });
         resizeObserver.observe(markdownRenderedElement);
     </script>
 </body>
