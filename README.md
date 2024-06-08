@@ -29,7 +29,6 @@ Invisibility is built using the following open-source libraries:
 
 - [Alamofire](https://github.com/Alamofire/Alamofire)
 - [Andhika Dewa](https://www.youtube.com/@AndhikaDewa/)
-- [CompactSlider](https://github.com/buh/CompactSlider/)
 - [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI)
 - [FluidGradient](https://github.com/Cindori/FluidGradient)
 - [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts)
@@ -43,6 +42,5 @@ Invisibility is built using the following open-source libraries:
 - [SimpleToast](https://github.com/sanzaru/SimpleToast)
 - [Sparkle](https://github.com/sparkle-project/Sparkle)
 - [swiftui-cached-async-image](https://github.com/lorenzofiamingo/swiftui-cached-async-image)
-- [SwiftUIReorderableForEach](https://github.com/globulus/swiftui-reorderable-foreach)
 - [ViewCondition](https://github.com/kevinhermawan/ViewCondition)
 - [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit)
