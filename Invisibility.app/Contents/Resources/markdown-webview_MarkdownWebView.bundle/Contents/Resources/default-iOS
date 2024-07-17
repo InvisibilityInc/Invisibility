@@ -817,3 +817,9 @@
         /* purposely ignored */
     }
 }
+
+/* Allow overscroll for long KaTex diagrams */
+.katex {
+    overflow-x: scroll;
+    overflow: auto hidden;
+}

@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>23G5066c</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleIdentifier</key>
-	<string>WhatsNewKit-WhatsNewKit-resources</string>
+	<string>RollbarSDK-RollbarNotifier-resources</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>WhatsNewKit_WhatsNewKit</string>
+	<string>RollbarSDK_RollbarNotifier</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -35,6 +35,6 @@
 	<key>DTXcodeBuild</key>
 	<string>15F31d</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>11.0</string>
+	<string>10.13</string>
 </dict>
 </plist>

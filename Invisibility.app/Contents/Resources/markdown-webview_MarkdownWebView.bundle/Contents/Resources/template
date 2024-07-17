@@ -2,206 +2,209 @@
 <html>
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <script>PLACEHOLDER_SCRIPT</script>
-    <style>
-        PLACEHOLDER_STYLESHEET
-    </style>
-    <style>
-        :root {
-            color-scheme: light dark !important;
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <script>PLACEHOLDER_SCRIPT</script>
+  <style>
+    PLACEHOLDER_STYLESHEET
+  </style>
+  <style>
+    :root {
+      color-scheme: light dark !important;
+    }
 
-        html,
-        body {
-            overscroll-behavior: none !important;
-            margin: 0 !important;
-        }
+    html,
+    body {
+      overscroll-behavior: none !important;
+      margin: 0 !important;
+    }
 
-        body::-webkit-scrollbar {
-            display: none !important;
-        }
+    body::-webkit-scrollbar {
+      display: none !important;
+    }
 
-        #markdown-rendered>*:first-child {
-            margin-top: 0 !important;
-        }
+    #markdown-rendered>*:first-child {
+      margin-top: 0 !important;
+    }
 
-        #markdown-rendered>*:last-child {
-            margin-bottom: 0 !important;
-        }
+    #markdown-rendered>*:last-child {
+      margin-bottom: 0 !important;
+    }
 
-        .code-block-wrapper {
-            position: relative;
-        }
+    .code-block-wrapper {
+      position: relative;
+    }
 
-        .copy-code-button {
-            background-color: #f0f0f0;
-            border: none;
-            border-radius: 4px;
-            font-size: 14px;
-            cursor: pointer;
-            opacity: 0;
-            transition: opacity 0.2s ease-in-out;
-        }
+    .copy-code-button {
+      background-color: #f0f0f0;
+      border: none;
+      border-radius: 4px;
+      font-size: 14px;
+      cursor: pointer;
+      opacity: 0;
+      transition: opacity 0.2s ease-in-out;
+    }
 
-        .code-block-wrapper:hover .copy-code-button {
-            opacity: 1;
-        }
+    .code-block-wrapper:hover .copy-code-button {
+      opacity: 1;
+    }
 
-        .copy-code-button.copied {
-            background-color: #4caf50;
-            opacity: 0;
-            transition: opacity 0.2s ease-in-out;
-        }
-    </style>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
-    <link href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/markdown-it-texmath@1.0.0/texmath.min.js"></script>
-    <link href="https://cdn.jsdelivr.net/npm/markdown-it-texmath@1.0.0/css/texmath.min.css" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/morphdom@2.6.1/dist/morphdom.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/markdown-it-sub@2.0.0/dist/markdown-it-sub.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/markdown-it-sup@2.0.0/dist/markdown-it-sup.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/markdown-it-footnote@4.0.0/dist/markdown-it-footnote.min.js"></script>
-    <script>
-            // This script is injected into the web view to enable code blocks
-            (function (window) {
-                const defaultOptions = {
-                    buttonClass: 'copy-code-button',
-                    wrapperClass: 'code-block-wrapper',
-                    copyIcon: '<i class="fa-regular fa-clone"></i>',
-                    copiedIcon: '<i class="fa-solid fa-check"></i>',
-                    copiedDelay: 2000
-                };
+    .copy-code-button.copied {
+      background-color: #4caf50;
+      opacity: 0;
+      transition: opacity 0.2s ease-in-out;
+    }
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/markdown-it-texmath@1.0.0/css/texmath.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it-texmath@1.0.0/texmath.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it-sub@2.0.0/dist/markdown-it-sub.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it-sup@2.0.0/dist/markdown-it-sup.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it-footnote@4.0.0/dist/markdown-it-footnote.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/morphdom@2.6.1/dist/morphdom.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
+  <script>
+      // This script is injected into the web view to enable code blocks
+      (function (window) {
+        const defaultOptions = {
+          buttonClass: 'copy-code-button',
+          wrapperClass: 'code-block-wrapper',
+          copyIcon: '<i class="fa-regular fa-clone"></i>',
+          copiedIcon: '<i class="fa-solid fa-check"></i>',
+          copiedDelay: 2000
+        };
 
-                function renderCode(origRule, options) {
-                    options = Object.assign({}, defaultOptions, options);
-                    return (...args) => {
-                        const [tokens, idx] = args;
-                        const content = tokens[idx].content
-                            .replaceAll('"', '&quot;')
-                            .replaceAll("'", "&apos;");
-                        const origRendered = origRule(...args);
+        function renderCode(origRule, options) {
+          options = Object.assign({}, defaultOptions, options);
+          return (...args) => {
+            const [tokens, idx] = args;
+            const content = tokens[idx].content
+              .replaceAll('"', '&quot;')
+              .replaceAll("'", "&apos;");
+            const origRendered = origRule(...args);
 
-                        if (content.length === 0)
-                            return origRendered;
+            if (content.length === 0)
+              return origRendered;
 
-                        return `
+            return `
 <div class="${options.wrapperClass}">
   ${origRendered}
   <button class="${options.buttonClass}" data-clipboard-text="${content}">${options.copyIcon}</button>
 </div>
 `;
-                    };
-                }
+          };
+        }
 
-                window.markdownitCodeCopy = function (md, options) {
-                    md.renderer.rules.code_block = renderCode(md.renderer.rules.code_block, options);
-                    md.renderer.rules.fence = renderCode(md.renderer.rules.fence, options);
-                };
+        window.markdownitCodeCopy = function (md, options) {
+          md.renderer.rules.code_block = renderCode(md.renderer.rules.code_block, options);
+          md.renderer.rules.fence = renderCode(md.renderer.rules.fence, options);
+        };
 
-                document.addEventListener('DOMContentLoaded', function () {
-                    const clipboard = new ClipboardJS('.copy-code-button');
+        document.addEventListener('DOMContentLoaded', function () {
+          const clipboard = new ClipboardJS('.copy-code-button');
 
-                    clipboard.on('success', function (e) {
-                        const button = e.trigger;
-                        button.innerHTML = defaultOptions.copiedIcon;
-                        button.classList.add('copied');
-                        setTimeout(() => {
-                            button.innerHTML = defaultOptions.copyIcon;
-                            button.classList.remove('copied');
-                        }, defaultOptions.copiedDelay);
-                    });
-                });
-            })(window);
-    </script>
+          clipboard.on('success', function (e) {
+            const button = e.trigger;
+            button.innerHTML = defaultOptions.copiedIcon;
+            button.classList.add('copied');
+            setTimeout(() => {
+              button.innerHTML = defaultOptions.copyIcon;
+              button.classList.remove('copied');
+            }, defaultOptions.copiedDelay);
+          });
+        });
+      })(window);
+  </script>
 
 </head>
 
 <body>
-    <div id="markdown-rendered"></div>
-    <script>
-        const markdownIt = window.markdownit({
-            highlight: function (str, lang) {
-                if (lang && hljs.getLanguage(lang)) {
-                    try {
-                        return hljs.highlight(str, { language: lang }).value;
-                    } catch (__) { }
-                } else {
-                    try {
-                        return hljs.highlightAuto(str).value;
-                    } catch (__) { }
-                }
-
-                return ``;
-            },
-            linkify: true,
-            typographer: true,
-        })
-            .use(window.markdownitMark)
-            .use(window.markdownitTaskLists)
-            .use(window.texmath, {
-                engine: window.katex,
-                delimiters: ['dollars', 'brackets', 'doxygen', 'gitlab', 'julia', 'kramdown', 'beg_end'],
-                katexOptions: {
-                    throwOnError: false,
-                    errorColor: '#cc0000',
-                },
-                breaks: false,
-            })
-            .use(window.markdownitSub)
-            .use(window.markdownitSup)
-            .use(window.markdownitFootnote)
-            .use(window.markdownitCodeCopy);
-
-        const markdownRenderedElement = document.getElementById(`markdown-rendered`);
-
-        window.updateWithMarkdownContentBase64Encoded = (markdownContentBase64Encoded) => {
-            const markdownContent = decodeURIComponent(atob(markdownContentBase64Encoded).split('').map(function (c) { return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2); }).join(''));
-            const renderedContent = markdownIt.render(markdownContent);
-
-            // Create a temporary element to hold the new rendered content
-            const tempElement = document.createElement('div');
-            tempElement.innerHTML = renderedContent;
-
-            // Clean up the temporary DOM to remove unwanted <p> tags inside <li> elements. This is what causes the numbered list line break issue.
-            tempElement.querySelectorAll('li > p').forEach((pTag) => {
-                const li = pTag.parentNode;
-                while (pTag.firstChild) {
-                    li.insertBefore(pTag.firstChild, pTag);
-                }
-                pTag.remove();
-            });
-
-            // Use morphdom to update the content without losing the text selection
-            morphdom(markdownRenderedElement, tempElement, {
-                onBeforeElUpdated: function (fromEl, toEl) {
-                    // spec - https://dom.spec.whatwg.org/#concept-node-equals
-                    if (fromEl.isEqualNode(toEl)) {
-                        return false
-                    }
-                    return true
-                },
-                childrenOnly: true,
-                skipFromChildren: function (fromEl, toEl) {
-                    return true;
-                }
-            });
-
-            // // send the html contnent via POST to https://webhook.site/9251dc8e-fc67-4e37-8a72-50129affd04e for debug
-            // fetch('https://webhook.site/9251dc8e-fc67-4e37-8a72-50129affd04e', {
-            //     method: 'POST',
-            //     body: markdownRenderedElement.innerHTML
-            // });
-            
-            window.webkit.messageHandlers.renderedContentHandler.postMessage(markdownContentBase64Encoded);
+  <div id="markdown-rendered"></div>
+  <script>
+    const markdownIt = window.markdownit({
+      highlight: function (str, lang) {
+        if (lang && hljs.getLanguage(lang)) {
+          try {
+            return hljs.highlight(str, {language: lang}).value;
+          } catch (__) { }
+        } else {
+          try {
+            return hljs.highlightAuto(str).value;
+          } catch (__) { }
         }
 
-                    const resizeObserver = new ResizeObserver((entries) => { window.webkit.messageHandlers.sizeChangeHandler.postMessage(entries[0].borderBoxSize[0].blockSize) });
-        resizeObserver.observe(markdownRenderedElement);
-    </script>
+        return ``;
+      },
+      linkify: true,
+      typographer: true,
+    })
+      .use(window.markdownitMark)
+      .use(window.markdownitTaskLists)
+      .use(window.texmath, {
+        engine: window.katex,
+        delimiters: ['dollars', 'brackets', 'doxygen', 'gitlab', 'julia', 'kramdown', 'beg_end'],
+        katexOptions: {
+          throwOnError: false,
+          errorColor: '#cc0000',
+        },
+        breaks: false,
+      })
+      .use(window.markdownitSub)
+      .use(window.markdownitSup)
+      .use(window.markdownitFootnote)
+      .use(window.markdownitCodeCopy);
+
+    const markdownRenderedElement = document.getElementById(`markdown-rendered`);
+
+    window.updateWithMarkdownContentBase64Encoded = (markdownContentBase64Encoded) => {
+      const markdownContent = decodeURIComponent(atob(markdownContentBase64Encoded).split('').map(function (c) {return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);}).join(''));
+
+      const renderedContent = markdownIt.render(markdownContent);
+
+      // Create a temporary element to hold the new rendered content
+      const tempElement = document.createElement('div');
+      tempElement.innerHTML = renderedContent;
+
+      // Clean up the temporary DOM to remove unwanted <p> tags inside <li> elements. This is what causes the numbered list line break issue.
+      tempElement.querySelectorAll('li > p').forEach((pTag) => {
+        const li = pTag.parentNode;
+        while (pTag.firstChild) {
+          li.insertBefore(pTag.firstChild, pTag);
+        }
+        pTag.remove();
+      });
+
+      // Use morphdom to update the content without losing the text selection
+      morphdom(markdownRenderedElement, tempElement, {
+        onBeforeElUpdated: function (fromEl, toEl) {
+          // spec - https://dom.spec.whatwg.org/#concept-node-equals
+          if (fromEl.isEqualNode(toEl)) {
+            return false
+          }
+          return true
+        },
+        childrenOnly: true,
+        skipFromChildren: function (fromEl, toEl) {
+          return true;
+        }
+      });
+
+      // // send the html contnent via POST to https://webhook.site/9251dc8e-fc67-4e37-8a72-50129affd04e for debug
+      // fetch('https://webhook.site/9251dc8e-fc67-4e37-8a72-50129affd04e', {
+      //     method: 'POST',
+      //     body: markdownRenderedElement.innerHTML
+      // });
+
+      window.webkit.messageHandlers.renderedContentHandler.postMessage(markdownContentBase64Encoded);
+    }
+
+    const resizeObserver = new ResizeObserver((entries) => {window.webkit.messageHandlers.sizeChangeHandler.postMessage(entries[0].borderBoxSize[0].blockSize)});
+    resizeObserver.observe(markdownRenderedElement);
+  </script>
 </body>
 
 </html>
