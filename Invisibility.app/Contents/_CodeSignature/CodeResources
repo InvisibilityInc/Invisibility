@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Info.plist</key>
 		<data>
-		AezGXtDV+tz867L2vkao8a8ZK4I=
+		fqO2tpGM1oywZxwkjCa7GiVgPQ4=
 		</data>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		PrcawlGRcMdzhMUZL9KPvrSGS7o=
+		l9OYZGO0aD0REawS4fXNt1puQhE=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<data>
-		6zYYez6uzW80ByHxTPpdLOJWSlE=
+		gx9Op9vOxLJHfotQzbzI4d8UnzU=
 		</data>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/ar.lproj/Localizable.strings</key>
 		<dict>
@@ -161,7 +161,7 @@
 		</dict>
 		<key>Resources/PostHog_PostHog.bundle/Contents/Info.plist</key>
 		<data>
-		+gmqyUD/06ZUPSaPgHY1c05TqsE=
+		tseLE5NZ2PfH6e1teNoaq/cfaRI=
 		</data>
 		<key>Resources/PostHog_PostHog.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -169,15 +169,15 @@
 		</data>
 		<key>Resources/Pow_Pow.bundle/Contents/Info.plist</key>
 		<data>
-		HyoEqeQcHw5rXQMwI56Vpvy8mvw=
+		JszH5ydoXMgXvKfF4DX63cwEHzw=
 		</data>
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
 		<data>
-		691GvxjReHdoGm/MxwVLkXnRWC0=
+		W7kTt4aqzXuHk9Oa2hB8WYo1DaA=
 		</data>
 		<key>Resources/RollbarSDK_RollbarNotifier.bundle/Contents/Info.plist</key>
 		<data>
-		pwW6oImfLg3J/tZwGtmLX1FP6iI=
+		cfZkB2iYSemmpGe8lTxMx5C7jec=
 		</data>
 		<key>Resources/RollbarSDK_RollbarNotifier.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -189,7 +189,7 @@
 		</data>
 		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Info.plist</key>
 		<data>
-		cBDxBUjANa+IsJOlBZOLAANGi6Q=
+		GOf4p9zio9GMzmBcEDr2ky+kGBE=
 		</data>
 		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/default-iOS</key>
 		<data>
@@ -222,7 +222,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			I98UKnSDljqHhB36z6ADnmbOfBU=
+			fYrU2okmg5+Vw4HdWNY549keggY=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.sparkle-project.Sparkle" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = U854WW4U2R)</string>
@@ -231,7 +231,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2mb8s+/Gt+EGP47WQA+RRTaGrsiDxR+HZp8go7Me5xo=
+			dpCxX0KcVBSIvA9Xpbbh5Whmm3g9QiQKfh49TXN/WzM=
 			</data>
 		</dict>
 		<key>Resources/Alamofire_Alamofire.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
@@ -252,14 +252,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KOCH7vrV5vn4iM6dtwRSAieCvXrkOmC0pxupDst0bEE=
+			Crx/PUdkY7u1IsP2Np2idNEEObDtpJXBgjusN1nJtVo=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/i57BxUtJytCWHj5SdN3/EmgcyEY6BXYUQHVJpyc230=
+			ucAM/cEjwye5+aSRmiEsys8idYayfBmEMI/iBSLfxL4=
 			</data>
 		</dict>
 		<key>Resources/KeyboardShortcuts_KeyboardShortcuts.bundle/Contents/Resources/ar.lproj/Localizable.strings</key>
@@ -401,7 +401,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			860d/dRiWTg6WRJ9EaZgfCIKu1JNpdmJPxyaiP/tdsk=
+			n6SWeg4OOYRvdivXyk5x3/fc9a1/KS7tm7gPKvRTDwY=
 			</data>
 		</dict>
 		<key>Resources/PostHog_PostHog.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
@@ -415,21 +415,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vm+lkLJFNvZBEoOBLLut8QW9sk9gX8CjlgDcPd/a7wg=
+			rVCEeI6IYlnK4Q6MoWRaN20GyzhMYz2WNjHXlTPDG5Y=
 			</data>
 		</dict>
 		<key>Resources/Pow_Pow.bundle/Contents/Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P/PkAO4qJSNV1y75QiCr1qkGU2fl47mT9mDHZER9tCk=
+			uWsCrRp39mnMwCGlOStujE8Ho2Xmp13Pdo8wIdY0iBI=
 			</data>
 		</dict>
 		<key>Resources/RollbarSDK_RollbarNotifier.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+zB175zi92TUj+JKRVzpE5R5mWJB5xIYYlNwNr7UgBI=
+			CptgZj27iif0SkkZ9+VUZP40ApWh6YyqYmRw9UB/QWk=
 			</data>
 		</dict>
 		<key>Resources/RollbarSDK_RollbarNotifier.bundle/Contents/Resources/PrivacyInfo.xcprivacy</key>
@@ -450,7 +450,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			REpK2tEOz1HtqLMdE74tgYBgyA7tEwMCHxy472MZb2M=
+			zoxG7GtNtXD0wusMaL+AzcxMmbI4HloSGreVsip2LoA=
 			</data>
 		</dict>
 		<key>Resources/markdown-webview_MarkdownWebView.bundle/Contents/Resources/default-iOS</key>
